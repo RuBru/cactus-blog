@@ -3,7 +3,7 @@ title: Par
 date: 2022-05-30 22:33:28
 ---
 
-Čau, mani sauc Rota. Esmu zinātkāra 20+ gadīga [lietotāju pieredzes dizainere](https://rotakalnina.lv/). Šī ir mana ne pārāk aktīvā pārdomu vieta par:
+Čau, mani sauc Rota. Esmu zinātkāra 20+ gadīga [lietotāju pieredzes dizainere](https://rotakalnina.lv/?utm_source=blog). Šī ir mana ne pārāk aktīvā pārdomu vieta par:
 - darbu
 - (dizainu)
 - un grāmatām.

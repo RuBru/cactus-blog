@@ -1,12 +1,12 @@
 [
     {
-       "name":"Hexo",
-       "url":"https://hexo.io/",
-       "desc":"A fast, simple & powerful blog framework"
+       "name":"UX Portfolio",
+       "url":"https://rotakalnina.lv/?utm_source=blog",
+       "desc":"Mans lietotāju pieredzes (UX) dizaina portfolio"
     },
     {
-       "name":"Font Awesome",
-       "url":"http://fontawesome.io/",
-       "desc":"The iconic font and CSS toolkit"
+       "name":"LARP Tronis",
+       "url":"https://tronis.lv/",
+       "desc":"Ikgadēja LARP (live action role play) spēle"
     }
 ]
