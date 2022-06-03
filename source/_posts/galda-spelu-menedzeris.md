@@ -80,7 +80,7 @@ Uzreiz. Ne gluzi no pirmās dienas, tad vēl visu nesapratu, bet pēc pirmā mē
 
 ### Tev patika savs darbs uzreiz vai iepatikās vēlāk?
 
-Uzreiz. Kad sapratu, kas jādara. Es sāku ar braukāšanu pa reģioniem, pa veikaliem apmācīt darbiniekus. Sarunāju, kur jābrauc un vienkārši izbraucu. Kas arī bija forši - vienkārši braukāties pa Latviju. Augustā izbraukāju visus 22 veikalus Latvijā 9 dienās. Man bija kaut kādi 1’500 nobrauktu kilometru. ^
+Uzreiz. Kad sapratu, kas jādara. Es sāku ar braukāšanu pa reģioniem, pa veikaliem apmācīt[^1] darbiniekus. Sarunāju, kur jābrauc un vienkārši izbraucu. Kas arī bija forši - vienkārši braukāties pa Latviju. Augustā izbraukāju visus 22 veikalus Latvijā 9 dienās. Man bija kaut kādi 1’500 nobrauktu kilometru.
 
 Un pēc tam principā man ar katru nākamo dienu deva arvien jaunus pienākumus un man viņi visi patika, tā kā galīgi nevar sūdzēties. Un ar katru pienākumu arī uzreiz algu pielika. Pirms tam biju strādājis tikai Lulū picā un uzreiz pelnīju vairāk kā Lulū un tad alga strauji auga un bija sajūta, jā, šis ir forši!
 
@@ -98,7 +98,7 @@ Vēl esmu vācis ogas vasarā, bet tā tāda kabatas nauda. Pēc 12. klases stra
 
 Pārāk labi neatceros, jo tas notika pirms 2.5 gadiem. Bet pieņemu, ka uzrakstīju bakalauru un baigi neiespringstot sāku meklēt. Pēc izlaiduma (jūnija beigās) sapratu, ka ir jāsāk strādāt. Pieteicos uz kaut kādiem tur random darbiem, neko foršu neatradu. Biju pārliecināts, ka neko vērtīgu neatradīšu, baigi pilnu slodzi nemeklēju, jo biju plānojis iet mācīties.
 
-Laikam jūlija trešajā nedēļā sapratu, ka reāli vajadzēja sākt strādāt - pilnīgi nauda beigusies. Atradu darbu kā [promoteris][^2]. Viņi bija atsūtījuši grafiku, bet līgums vēl laikam nebija parakstīts. Domāju - baigi labs darbs, tā kā jau biju iesācis šajā studiju programmā mācīties iepriekš, pirmajā studiju semestrī man pārskaitītu 16 KP un pašās studijās varēšu baigi neiespringt.
+Laikam jūlija trešajā nedēļā sapratu, ka reāli vajadzēja sākt strādāt - pilnīgi nauda beigusies. Atradu darbu kā promoteris[^2]. Viņi bija atsūtījuši grafiku, bet līgums vēl laikam nebija parakstīts. Domāju - baigi labs darbs, tā kā jau biju iesācis šajā studiju programmā mācīties iepriekš, pirmajā studiju semestrī man pārskaitītu 16 KP un pašās studijās varēšu baigi neiespringt.
 
 Biju ballītē, atnāku mājās un facebookā redzu, ka galda spēļu uzņēmums meklē darbinieku. Būs kaut kas jāorganizē, būs kaut kur jabrauc, būs jāmāca spēles spēlēt, meklē nepilna laika cilvēku. Un es domāju - neko labāku nevar vēlēties. Gadījuma rakstura darbs, kādas 30 - 60 stundas mēnesī - lieliski, tieši to varu apvienot!
 
@@ -139,7 +139,7 @@ Daudz.
 
 - Dotajā brīdī tautasdejas. Nevis Dziesmu svētku dēļ, bet tāpēc, ka man patīk.
 - Cenšos 2 reizes nedēļā spēlēt pludmales volejbolu ar darba kolēģiem pa rītiem.
-- Tagad apņemšanās noskriet maratonu ar spēcīgu laiku (zem 5min uz kilometru). Pirmoreiz mūžā skriešu [Spēks un Jauda][^3].
+- Tagad apņemšanās noskriet maratonu ar spēcīgu laiku (zem 5min uz kilometru). Pirmoreiz mūžā skriešu Spēks un Jauda. [^3]
 - Spēlēju galda spēles ar draugiem taisam paši savu galda spēli.
 - Cenšos daudz iet uz kino.
 - Mēģinu pavadīt laiku ar draugiem.
@@ -168,8 +168,8 @@ Autores piezīme: Pāris nedēļas pēc intervijas sazinājos ar intervēto puis
 
 Atzīme (*labotā*): 9
 
-[^1]: footnote1 "Apmācības notiek tā, ka aizbraucam uz veikaliem, aptuveni 1.5 stundā izejam cauri 20-30 spēlēm. Pastāstam noteikumus - vienkāršākām spēlēm bez maz vai 30 sekundes, sarežģītākām vairāk."
+[^1]: Apmācības notiek tā, ka aizbraucam uz veikaliem, aptuveni 1.5 stundā izejam cauri 20-30 spēlēm. Pastāstam noteikumus - vienkāršākām spēlēm bez maz vai 30 sekundes, sarežģītākām vairāk.
 
-[^2]: footnote2 "Promoteris - cilvēks, kas lielveikalos dod produktu stendos pārsvarā ēdiena vai dzēriena paraugus."
+[^2]: Promoteris - cilvēks, kas lielveikalos dod produktu stendos pārsvarā ēdiena vai dzēriena paraugus.
 
-[^3]: footnote3 "Spēks un Jauda - ikgadējas piedzīvojumsacensības aprīļa pirmajā nedēļā, ko organizē Krūziņu pāris, viņu draugi un fizmati, kura nodarbojas ar aktīvo atpūtu."
+[^3 ]: Spēks un Jauda - ikgadējas piedzīvojumsacensības aprīļa pirmajā nedēļā, ko organizē Krūziņu pāris, viņu draugi un fizmati, kura nodarbojas ar aktīvo atpūtu.
