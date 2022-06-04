@@ -1,7 +1,7 @@
 nav:
   home: Sākums
   about: Par
-  articles: Ieraksti
+  articles: Raksti
   tag: Birka
   category: Kategorijas
   projects: Projekti
@@ -15,10 +15,10 @@ footer:
   copyright: Autortiesības
 
 index:
-  find_me_on: Sazinies ar mani
+  find_me_on: Sazinamies? Aiziet, raksti man
   enum_comma: ','
   enum_and: un
-  articles: Ieraksti
+  articles: Raksti
   projects: Projekti
   topics: Tēmas
   most_recent: Jaunākais

@@ -16,7 +16,6 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  projects: /projects/
   about: /about/
   tags: /tags/
 
@@ -80,7 +79,7 @@ logo:
   width: 50
   height: 50
   url: /images/avatar.svg
-  gravatar: false
+  gravatar: true
   grayout: true
 
 # Customize the favicons.
