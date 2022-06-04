@@ -2,7 +2,7 @@
 layout: post
 title: Galda spēļu vairumtirdzniecības menedžeris Latvijā
 date: 2018-07-03 23:49:36
-tags: saruna
+tags: [darbaprieks]
 ---
 
 Dzimums: vīrietis

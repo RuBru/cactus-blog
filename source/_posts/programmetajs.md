@@ -1,7 +1,7 @@
 ---
 title: Programmētājs
 date: 2018-10-01 23:45:29
-tags: [saruna]
+tags: [darbaprieks]
 ---
 
 Dzimums: vīrietis
