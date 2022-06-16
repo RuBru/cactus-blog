@@ -109,7 +109,12 @@
 <!-- Umami Analytics -->
 <% if (theme.umami_analytics.enabled && theme.umami_analytics.id && theme.umami_analytics.host){ %>
   <script async defer data-website-id="<%= theme.umami_analytics.id %>" src="<%= theme.umami_analytics.host %>/umami.js"></script>
-<% } %>
+  <% } %>
+<!-- Goatcounter Analytics -->
+<% if (theme.goatcounter_analytics.enabled && theme.goatcounter_analytics.id && theme.goatcounter_analytics.src){ %>
+  <script data-goatcounter="<%= theme.goatcounter_analytics.id %>"
+    async src="<%= theme.goatcounter_analytics.src %>"></script>
+  <% } %>
 <!-- Disqus Comments -->
 <% if (page.comments && theme.disqus.enabled && theme.disqus.shortname){ %>
     <script type="text/javascript">

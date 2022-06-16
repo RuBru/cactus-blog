@@ -172,6 +172,12 @@ umami_analytics:
   id: e77e68be-f6e4-4br3-9365-2b76b57cd571
   host: https://analytics.domain.com
 
+# Fill in your Goatcounter Analytics tracking ID to enable Goatcounter Analytics.
+goatcounter_analytics:
+  enabled: true
+  id: https://bruna.goatcounter.com/count
+  src: //gc.zgo.at/count.js
+
 # Fill in you Gravatar email or hash if you want to use your gravatar as the
 # logo and/or favicons of you website.
 # To generate hash: `$ echo -n "name@email.com" | md5`.
