@@ -1,6 +1,6 @@
 ---
 title: How to win friends and influence people by Dale Carnegie
-date: 2018-12-27 22:36:10
+date: 2017-06-23 22:36:10
 tags: grāmata
 ---
 
