@@ -1,6 +1,6 @@
 ---
 title: Barking Up The Wrong Tree by Eric Barker
-date: 2020-06-11 13:24:14
+date: 2018-06-18 13:24:14
 tags: grāmata
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 12 Rules For Life by Jordan B. Peterson
-date: 2020-07-24 13:06:04
+date: 2019-03-18 13:06:04
 tags: grāmata
 ---
 
