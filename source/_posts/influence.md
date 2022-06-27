@@ -1,10 +1,8 @@
 ---
 title: How to win friends and influence people by Dale Carnegie
-date: 2017-06-23 22:36:10
+date: 2018-01-17 22:36:10
 tags: grāmata
 ---
-
-## Atsauksme
 
 Jauka, stāstiem un dzīvesgudrības bagāta grāmata par to, kā mums visiem vajadzētu mazliet mainīties - būt mazāk egocentriskiem un pievērst vairāk uzmanības cilvēkiem, ar kuriem komunicējams un ar kuriem vēlamies sadarboties.
 
@@ -18,6 +16,7 @@ Vēl svarīgs punkts, uz ko es līdz šim esmu diezgan smagi grēkojusi, ir tuvo
 
 > The principles taught in this book will work only when they come from the heart. I am not advocating a bag of tricks. I am talking about a new way of life. Talk about changing people. If you and I will inspire the people with whom we come in contact to a realization of the hidden treasures they possess, we can do far more than change people. We can literally transform them.
 
+---
 
 ## Spilgtākie citāti
 
