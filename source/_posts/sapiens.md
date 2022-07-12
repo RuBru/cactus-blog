@@ -70,3 +70,7 @@ Mūžīgais progress ir kapitālisma sāls. Kopējais planētas pīrāgs nekad n
 ### Mūsdienas
 
 Mūsdienās spēcīgās viduslaiku sabiedrības ir aizstātas ar stipru indivīda sajūtu un spēcīgu valsts pārvaldi. Valsts ir tā, kas gādā par mūsu izglītību, veselību un vecumdienām. Agrāk tā bija paplašinātā ģimene. Īstas komūnas ir aizvietotas ar patērētāju komūnām - visi vegāni jūtas kā kopējas komūnas dalībnieki, jo viņi patērē vegāniskos produktus, taču pārējie vegāni tevi nepazīst tik labi kā ģimene pirms pāris gadsimtiem. Mēs esam vientuļi un "brīvi", jo tā mūs ir vieglāk vadīt.
+
+## Kritika
+
+[The Dangerous Populist Science of Yuval Noah Harari by Darshana Narayanan | Current Affairs](https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari)
