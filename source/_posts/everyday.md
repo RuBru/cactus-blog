@@ -433,3 +433,7 @@ Reliance on technology is a benefit to humanity. With technology, the brain gets
 
 > Presents a powerful method of analyzing behaviour
 [Contextual design: defining customer-centered systems](https://www.goodreads.com/book/show/617137.Contextual_Design) (1998) by Hugh Beyer and Karen Holtzblatt
+
+### Another review
+
+[Book summary and Notes by Elvis Chidera ](https://elvischidera.com/2022-06-24-design-everyday-things)
