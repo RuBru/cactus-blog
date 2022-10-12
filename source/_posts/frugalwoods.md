@@ -1,7 +1,7 @@
 ---
 title: Meet the Frugalwoods by Elizabeth Willard Thames
 date: 2018-12-27 22:04:38
-tags: grāmata
+tags: [grāmata,finanses]
 ---
 
 *Achieving financial independence through simple living*
