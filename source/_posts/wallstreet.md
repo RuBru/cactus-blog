@@ -12,7 +12,13 @@ The book consists of four big parts:
 3. **The new investment technology**: more elaborate investment techniques created in the last decades.
 4. **A practical guide for random walkers and other investors**: guides, techniques and specific advice to create personalised investment portfolio.
 
-I enjoyed the book, especially the 1st and 4th part. I don't remember the last part of 3rd section as that got quite complex. Sadly this, as most books about personal finance, is a book for US audience. That means that most advice about taxes and law is not apliccable to me as a European.
+I enjoyed the book most of the time, but sadly this, as most books about personal finance, is a book for US audience. That means that most advice about taxes and law is not apliccable to me as a European.
+
+Some highlights:
+
+- (The rule of 72)[#The-rule-of-72]
+- "Strategies that become well known often lose their effectiveness after publication of their results."
+- It is critical that you understand yourself.
 
 ---
 
@@ -126,3 +132,105 @@ To add another layer, French and Fama have propsed a factor model to account for
 
 
 ## Behavioral finance
+
+Kahneman and Tversky have done a lot of experiments on judgement that have led to the new area of behavioral finance (see Thinking Fast and Slow).
+
+Behavioralists believe that market prices are highly imprecise. Moreover, people deviate in systematic ways from rationality, and the irrational trades of investors tend to be correlated. Behavioral finance then takes that statement further by asserting that it is posiible to quantify or classify such irrational behavior. Basically, there are four factors that create irrational market behavior: **overconfidence, biased judgments, herd mentality, and loss aversion**.
+
+
+### Herd mentality
+
+> There is nothing so disturbing to one's well-being and judgement as to see a friend get rich.
+/ Charles Kindleberger
+
+### Loss aversion
+
+> A dollar loss ir 2 1/2 times as painful as a dollar gain is pleasurable.
+/ By Kahneman and Tversky's research
+
+### Lessons from behavioral finance
+
+1. Avoid herd behavior. Any investment that has become a topic of widespread conversation is likely to be hazardous to your wealth.
+2. Avoid overtrading. In Odean's research, men tended to be more overconfident and trade far more frequently than women. His advice: If you are contemplating making a stock trade (and you are married), ask your wife whether you should do it.
+3. If you do trade, sell losers, not winners.
+4. Other stupid investor tricks:
+   1. Be wary of new issues
+   2. Stay cool to hot tips
+   3. Distrust foolproof schemes
+
+## Smart beta
+
+CAPM - capital asset pricing model
+Sharpe Ratio - the higher Sharpe ratio, the higher return per unit of risk
+Smart beta - some kind of strategy that bends index portfolio in some direction to acquire higher Sharpe ratio. Possible smart-beta portfolio flavors:
+- "value" vs "growth"
+- small vs large companies
+- relatively strong stocks vs weak ones
+- other: quality, profitability, low volatility, liquidity,...
+
+> Just as good cooking blends a number of food flavors, some "smart beta" portfolios mix two or more flavors together.
+
+### Implications for investors
+
+**Strategies that become well known often lose their effectiveness after publication of their results.** ... The core of every portfolio should consist of low-cost, tax-efficient, broad-based index funds. If you do want to take a chance that some risk factors will generate improved risk-adjusted returns in the future, you can do so most prudently if the core of your portfolio consists of capitalisation-weighted broad-based index funds. And if you do want to add additional risk factors in the pursuit of extra return, I recommend a low-expense multifactor offering rather than a fund concentrating on one risk factor.
+
+## Risk parity
+
+Risk parity are investment techniques. **They are based on a evidence-based principle that relatively safe assets often provide higher returns than are appropriate for their level of risk, while riskier assets are relatively overpriced and return less than they should.** Investors can therefore improve their results by leveraging low-risk assets, buying them with some borrowed money, so as to increase their risk and return (buy in margin).
+
+---
+
+# Practical guide for random walkers and other investors
+
+> In investing money, the amount of interest you want should depend on whether you want to eat or sleep well.
+/ J Kenfield Morley, Some Things I Believe
+
+## Fitness manual
+
+1. Gather your resources: save!
+2. Cover yourself with cash reserve and insurance
+3. Be competitive - let the yield on your cash reserve keep pace with inflation
+4. Learn how to dodge the tax collector
+5. Make sure the shoe fits: understand your investment objectives
+
+### Insurance
+
+> For most people I favor the do-it-yourself approach [to insurance]. Buy term insurance for protection and invest the difference yourself in a tax-deferred retirement plan. Such an investment plan is far superior to "whole life" or "variable life" insurance policies.
+
+Avoid variable annuities (an investment product with an insurance feature).
+
+### Cash reserve yield - how to?
+Put your koney in short term investments.
+
+- Money market mutual funds (money funds)
+- Bank certificates of deposit (CDs)
+- Internet banks (putting money in a low cost safe online bank's high yield savings account)
+- Treasury bills
+- Tax-exempt Money-Market Funds
+
+> Bank CDs are even safer than money funds, typically offer higher yields, and are an excellent medium for investors who can tie up their liquid funds for at least six months.
+
+### Taxes
+
+> I do suggest that you take advantage of every opportunity to make your savings tax-deductible and to let your savings and investments grow tax-free.
+
+### The sleeping scale of major investments
+
+|Sleeping point|Type of asset|2018 expected rate of return before income tax|Length of time investment must be held to get expected rate of return| Risk level|
+|---|---|---|---|---|
+|Semicimatose state|Bank accounts|0-2%|No specific investment period required. Many thrift institutions calulate interest from day of deposit to day of withdrawal.|No risk of losing what you put in. Deposits up to 20 000 (?) guaranteed by EU. An almost sure loser with high inflation, however.|
+|Semicimatose state|Money-market funds|1-2%|No specific investment period required. Most funds provide check-writing priviledges.|Very little risk because most funds are invested in government securities and bank certificates. Not usually guaranteed. Rates vary with expected inflation.|
+|Semicimatose state|Certificates of Deposit (CDs)|0.5-2.5%|Money must be left on deposit for the entire period to take advantage of a higher rate|Early withdrawals subject to penalty. Rates geared to expected inflation and will vary.|
+|Semicimatose state|Treasury inflation-protected securities (TIPS)|0.5-1% + inflation| These are long-term securities maturing in 5 years or longer. Base rates vary with maturity.|Prices can vary if sold before maturity.|
+|An occasional dream or two, some possibly unpleasant|High quality corporate bonds (prime quality public utilities)|3.5-5%|Investments must be held until maturity (5-30 years) to be assured of the stated rate. (The bonds also need to be protected against redemption.) The bonds may be sold at any time, but market prices vary with interest rates.|Very little risk if held to maturity. Moderate to substantial fluctuations can be expected in realized return if bonds are sold before maturity. Rate geared to expected long-run inflation rate. "Junk bonds" promise much higher returns but with much higher risk.|
+|Some tossing and turning before you doze, and vivid dreams before awakening|Diversified portoflios of blue-chip U.S. or developed foreign sountry common stocks|5.5-7%|No specific investment period required and stocks may be sold at any time. The average expected return assumes a fairly long investment period and can only be treated as a rough guide based on current conditions.|Moderate to substantial risk. In any one year, the actual return could in fact be negative. Diversified portfolios have at times lost 25% or more of their actual value. Contrary to some opinions, a good inlation hedge over the long run.|
+|Some tossing and turning before you doze, and vivid dreams before awakening|Real estate|Similar to common stock|Same as for common stocks in general if purcase is made through REITs|Same as above but REITs are good diversifiers and can be a good inflation hedge.|
+|Nightmares not uncommon but, over the long run, well rested|Diversified portfolios of relatively risky stocks of smaller growth companies|6.5-7.5%|Same as above. The average expected return assumes a fairly long investment period and can only be treated as a rough guide based on current conditions.|Substantial risk. In any one year, the actual return could be negative. Diversified portfolios of very risky stocks have at times lost 50% or more of their value. Good inflation hedge.|
+|Vivid dreams and occasional nightmares|Diversified portfolios of emerging market stocks|8-9%|Plan to hold for at least 10 years. Projected returns impossible to quantify precisely.|Fluctuations up or down to 50% to 75% in a single year are not uncommon.|
+|Bouts of insomnia|Gold|Impossible to predict|High returns could be earned in any new speculative craze as long as there are greater fools to be found.|Substantial risk. Believed to be a hedge against doomsday and hyperinflation. Can play a useful role in balancing a diversified portfolio, however.|
+
+
+In addition, your psychological makeup will influence the degree of risk you should assume.
+> One investment adviser suggests that you consider what kind of Monopoly player you once were. Were you a plunger? Did you construct hotels on Broadwalk and Park Place? (small chances, but high pay) Or did you prefer the steadier but moderate income from the orange monopoly? The answers to these questions may give you some insight into your psychological makeup with respect to investing. **It is critical that you understand yourself.**
+
+> Finding your risk level, and identifying your tax bracket and income needs - seem obvious. But it is incredible how many people go astray by mismatching the types of securities they buy with their risk tolerance and their income and tax needs.
