@@ -19,6 +19,7 @@ Some highlights:
 - (The rule of 72)[#The-rule-of-72]
 - "Strategies that become well known often lose their effectiveness after publication of their results."
 - It is critical that you understand yourself.
+- There is no sure and easy road to riches. High returns can be achieved only through higher risk-taking (and perhaps through accepting lower liquidity)
 
 ---
 
@@ -71,6 +72,8 @@ And of course, this millenia is even better than the previous:
 >
 > I am also persuaded by the wisdom of Benjamin Graham, author of Security Analysis, who wrote that in the final analysis the stock market is not a voting mechanism but a weighing mechanism. Valuation metrics have not changed. Eventually, every stock can only be worth the present value of its cash flow. In the final analysis true value will win out.
 
+---
+
 # How the pros play the biggest game in town
 
 > As more and more people use the technique, the value deteriorates.
@@ -104,6 +107,8 @@ In the last decades, academics have set their eyes to stock market and test the 
 
 
 In long term, no fund or professional has ever beaten the market. If they have, it is in line with rules of chance. What is crazy, market professionals are worse than chance. You might be better off by picking random stocks than by trusting a professional.
+
+---
 
 # The new investment technologies
 
@@ -190,8 +195,13 @@ Risk parity are investment techniques. **They are based on a evidence-based prin
 1. Gather your resources: save!
 2. Cover yourself with cash reserve and insurance
 3. Be competitive - let the yield on your cash reserve keep pace with inflation
-4. Learn how to dodge the tax collector
+4. Learn how to dodge the tax collector: be tax efficient
 5. Make sure the shoe fits: understand your investment objectives
+6. Begin your walk at your own home: live in your own home
+7. Investigate a promeande throught bond country: vnvest partly in bonds (and dividend yielding stocks)
+8. Tiptoe through the fields of gold, collectibles, and other investments
+9. Remember that investment costs are not random, some are lower than others (indexes and ETFs)
+10. Avoid sinkholes and stumbling blocks: diversify your investment steps: understand how your vulnerable we you are to your own psychology and avoid common pitfalls.
 
 ### Insurance
 
@@ -214,23 +224,63 @@ Put your koney in short term investments.
 
 > I do suggest that you take advantage of every opportunity to make your savings tax-deductible and to let your savings and investments grow tax-free.
 
+### Gold and collectibles
+
+**Returns from gold tend to be very little correlated with the returns from paper assets.** Hence, even modest holdings (say, 5% of the portfolio) can help an investor reduce the variability of the total portfolio. And if inflation were to reemerge, gold would likely produce acceptable returns. But prudence suggests - at best - a limited role for gold as a vehicle for obtaining broader diversification.
+
+> There's nothing wrong in buying things you can love - and God knows people do have strange tastes - but my advice is to buy those things because you love them, not because you expect them to appreciate in value.
+
+> To earn money collecting, you need great originality and taste. **Most people who think they are collecting profit are really collecting trouble**.
+
+### Fees
+
+Costs matter, also when buying mutual funds or ETFs. **There is a strong tendency for those funds that charge the lowest fees to the investor to produce the best net returns.**
+
+There is much about investing you cannot control. You can't do anything about the ups and downs of the stock and bond markets. But you can control your investment costs. And you can organize your investments to minimize taxes. Controlling the things you can control should play a central role in developing a sensible investment strategy.
+
 ### The sleeping scale of major investments
 
-|Sleeping point|Type of asset|2018 expected rate of return before income tax|Length of time investment must be held to get expected rate of return| Risk level|
-|---|---|---|---|---|
-|Semicimatose state|Bank accounts|0-2%|No specific investment period required. Many thrift institutions calulate interest from day of deposit to day of withdrawal.|No risk of losing what you put in. Deposits up to 20 000 (?) guaranteed by EU. An almost sure loser with high inflation, however.|
-|Semicimatose state|Money-market funds|1-2%|No specific investment period required. Most funds provide check-writing priviledges.|Very little risk because most funds are invested in government securities and bank certificates. Not usually guaranteed. Rates vary with expected inflation.|
-|Semicimatose state|Certificates of Deposit (CDs)|0.5-2.5%|Money must be left on deposit for the entire period to take advantage of a higher rate|Early withdrawals subject to penalty. Rates geared to expected inflation and will vary.|
-|Semicimatose state|Treasury inflation-protected securities (TIPS)|0.5-1% + inflation| These are long-term securities maturing in 5 years or longer. Base rates vary with maturity.|Prices can vary if sold before maturity.|
-|An occasional dream or two, some possibly unpleasant|High quality corporate bonds (prime quality public utilities)|3.5-5%|Investments must be held until maturity (5-30 years) to be assured of the stated rate. (The bonds also need to be protected against redemption.) The bonds may be sold at any time, but market prices vary with interest rates.|Very little risk if held to maturity. Moderate to substantial fluctuations can be expected in realized return if bonds are sold before maturity. Rate geared to expected long-run inflation rate. "Junk bonds" promise much higher returns but with much higher risk.|
-|Some tossing and turning before you doze, and vivid dreams before awakening|Diversified portoflios of blue-chip U.S. or developed foreign sountry common stocks|5.5-7%|No specific investment period required and stocks may be sold at any time. The average expected return assumes a fairly long investment period and can only be treated as a rough guide based on current conditions.|Moderate to substantial risk. In any one year, the actual return could in fact be negative. Diversified portfolios have at times lost 25% or more of their actual value. Contrary to some opinions, a good inlation hedge over the long run.|
-|Some tossing and turning before you doze, and vivid dreams before awakening|Real estate|Similar to common stock|Same as for common stocks in general if purcase is made through REITs|Same as above but REITs are good diversifiers and can be a good inflation hedge.|
-|Nightmares not uncommon but, over the long run, well rested|Diversified portfolios of relatively risky stocks of smaller growth companies|6.5-7.5%|Same as above. The average expected return assumes a fairly long investment period and can only be treated as a rough guide based on current conditions.|Substantial risk. In any one year, the actual return could be negative. Diversified portfolios of very risky stocks have at times lost 50% or more of their value. Good inflation hedge.|
-|Vivid dreams and occasional nightmares|Diversified portfolios of emerging market stocks|8-9%|Plan to hold for at least 10 years. Projected returns impossible to quantify precisely.|Fluctuations up or down to 50% to 75% in a single year are not uncommon.|
-|Bouts of insomnia|Gold|Impossible to predict|High returns could be earned in any new speculative craze as long as there are greater fools to be found.|Substantial risk. Believed to be a hedge against doomsday and hyperinflation. Can play a useful role in balancing a diversified portfolio, however.|
+| Sleeping point                                                              | Type of asset                                                                       | 2018 expected rate of return before income tax | Length of time investment must be held to get expected rate of return                                                                                                                                                           | Risk level                                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Semicimatose state                                                          | Bank accounts                                                                       | 0-2%                                           | No specific investment period required. Many thrift institutions calulate interest from day of deposit to day of withdrawal.                                                                                                    | No risk of losing what you put in. Deposits up to 20 000 (?) guaranteed by EU. An almost sure loser with high inflation, however.                                                                                                                                     |
+| Semicimatose state                                                          | Money-market funds                                                                  | 1-2%                                           | No specific investment period required. Most funds provide check-writing priviledges.                                                                                                                                           | Very little risk because most funds are invested in government securities and bank certificates. Not usually guaranteed. Rates vary with expected inflation.                                                                                                          |
+| Semicimatose state                                                          | Certificates of Deposit (CDs)                                                       | 0.5-2.5%                                       | Money must be left on deposit for the entire period to take advantage of a higher rate                                                                                                                                          | Early withdrawals subject to penalty. Rates geared to expected inflation and will vary.                                                                                                                                                                               |
+| Semicimatose state                                                          | Treasury inflation-protected securities (TIPS)                                      | 0.5-1% + inflation                             | These are long-term securities maturing in 5 years or longer. Base rates vary with maturity.                                                                                                                                    | Prices can vary if sold before maturity.                                                                                                                                                                                                                              |
+| An occasional dream or two, some possibly unpleasant                        | High quality corporate bonds (prime quality public utilities)                       | 3.5-5%                                         | Investments must be held until maturity (5-30 years) to be assured of the stated rate. (The bonds also need to be protected against redemption.) The bonds may be sold at any time, but market prices vary with interest rates. | Very little risk if held to maturity. Moderate to substantial fluctuations can be expected in realized return if bonds are sold before maturity. Rate geared to expected long-run inflation rate. "Junk bonds" promise much higher returns but with much higher risk. |
+| Some tossing and turning before you doze, and vivid dreams before awakening | Diversified portoflios of blue-chip U.S. or developed foreign sountry common stocks | 5.5-7%                                         | No specific investment period required and stocks may be sold at any time. The average expected return assumes a fairly long investment period and can only be treated as a rough guide based on current conditions.            | Moderate to substantial risk. In any one year, the actual return could in fact be negative. Diversified portfolios have at times lost 25% or more of their actual value. Contrary to some opinions, a good inlation hedge over the long run.                          |
+| Some tossing and turning before you doze, and vivid dreams before awakening | Real estate                                                                         | Similar to common stock                        | Same as for common stocks in general if purcase is made through REITs                                                                                                                                                           | Same as above but REITs are good diversifiers and can be a good inflation hedge.                                                                                                                                                                                      |
+| Nightmares not uncommon but, over the long run, well rested                 | Diversified portfolios of relatively risky stocks of smaller growth companies       | 6.5-7.5%                                       | Same as above. The average expected return assumes a fairly long investment period and can only be treated as a rough guide based on current conditions.                                                                        | Substantial risk. In any one year, the actual return could be negative. Diversified portfolios of very risky stocks have at times lost 50% or more of their value. Good inflation hedge.                                                                              |
+| Vivid dreams and occasional nightmares                                      | Diversified portfolios of emerging market stocks                                    | 8-9%                                           | Plan to hold for at least 10 years. Projected returns impossible to quantify precisely.                                                                                                                                         | Fluctuations up or down to 50% to 75% in a single year are not uncommon.                                                                                                                                                                                              |
+| Bouts of insomnia                                                           | Gold                                                                                | Impossible to predict                          | High returns could be earned in any new speculative craze as long as there are greater fools to be found.                                                                                                                       | Substantial risk. Believed to be a hedge against doomsday and hyperinflation. Can play a useful role in balancing a diversified portfolio, however.                                                                                                                   |
 
 
 In addition, your psychological makeup will influence the degree of risk you should assume.
 > One investment adviser suggests that you consider what kind of Monopoly player you once were. Were you a plunger? Did you construct hotels on Broadwalk and Park Place? (small chances, but high pay) Or did you prefer the steadier but moderate income from the orange monopoly? The answers to these questions may give you some insight into your psychological makeup with respect to investing. **It is critical that you understand yourself.**
 
-> Finding your risk level, and identifying your tax bracket and income needs - seem obvious. But it is incredible how many people go astray by mismatching the types of securities they buy with their risk tolerance and their income and tax needs.
+> Finding your risk level, and identifying your tax bracket and income needs - seem obvious. But it is incredible how many people go astray by mismatching the types of securities they buy with their risk tolerance and their income and tax needs.**
+
+---
+
+# Hanicapping the financial race: a primer in understanding and projecting returns from stocks and bonds
+
+long run equity return = initial dividend yield + growth rate
+
+Going through the "eras" of stock market, you get a sense of what kind of return you can expect.
+
+| Nr    | The Age of ...  | Years     | Average annual stock return | Average annual bond return |
+|-------|-----------------|-----------|-----------------------------|----------------------------|
+| Era 1 | Comfort         | 1947-1968 | 14.0%                       | 1.8%                       |
+| Era 2 | Angst           | 1969-1981 | 5.6%                        | 3.8%                       |
+| Era 3 | Exurberance     | 1982-2000 | 18.3%                       | 13.6%                      |
+| Era 4 | Disenchantment  | 2000-2009 | -6.5%                       | 6.4%                       |
+| Era 5 | Today's markets | 2009-2018 | ~18%                        | ~3%                        |
+
+Depending on the forecast horizon involved, as much as 40% of the variability of the future market returns can be predicted on the basis of the initial P/E (price per earnings) multiple of the market as a whole.
+
+In general, ... investors have earned higher total rates of return from the stock market when the initial P/E of the market portfolio was relatively low (~10), and relatively low future rates of return when stocks were purchased at high P/E multiples (~25).
+
+Measured P/Es are often referred to as CAPEs - cyclically adjusted P/E multiples. The [CAPEs](https://dqydj.com/shiller-pe-cape-ratio-calculator/) are available on [Robert Shiller's website](http://www.econ.yale.edu/~shiller/), and the earnings are calculated as average earnings over the last ten years.
+
+---
+
+# A life-cycle guide to investing
