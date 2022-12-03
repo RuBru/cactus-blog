@@ -1,7 +1,7 @@
 ---
 title: Rationality - from AI to Zombies by Eliezer Yudkowsky
 date: 2020-01-11 22:48:00
-tags: [grāmata]
+tags: [grāmata, racionalitāte]
 ---
 
 # Review
