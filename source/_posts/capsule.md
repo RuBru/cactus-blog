@@ -8,35 +8,44 @@ Ir pagājis gads un gandrīz 2 mēneši kopš ar nodomu pieķēros skapim.
 
 Es izrevidēju visu skapi, pārskatījos video par kapsulas garderobēm un uzsāku savu dizainētās garderobes stāstu.
 
+Izpētei un lēmumu pieņemšanai veltīju 1 nakti.
 
-Es pavadīju 1 nakti darot izpēti un pieņemot lēmumus.
+## Manas krāsas
 
-## Manas krāsas - 2021.gada oktobrī
+### Sākotnējā versija 2021. gadā
 
-Šīs ir krāsas, ko izvēlējos pirms gada:
+Krāsas, ko izvēlējos 2021. gada oktobrī:
 
-![](/images/capsule-colors.png)
+![](/images/capsule-colors-2021.png)
 
-Tās joprojām ir ~ aktuālas un pie tām aptuveni turos,
+Tās joprojām ir ~ aktuālas un pie tām aptuveni turos, jo tās izvēlējos, ņemot par pamatu savus foršākos un spilgtākos apģērba gabalus. Tie joprojām ir manā skapī un labi kalpo.
 
-TODO: pievienot māla zaļo krāsu, jo to aktīvi izmantoju.
+### Atjaunotās krāsas 2022. gadā
 
-## Atjauninājumi un secinājumi
+Krāsas, kas reāli ir manā skapī 2022. gada decembrī:
 
-- man ļoti patīk lietot sīkus rakstus, īpaši melnbaltus (pumpas, līnijas, utml)
-- esmu atklājusi, ka garroku pogu krekli mēdz būt ļoti forši
-- beidzot sagaidīju arī apakšveļas update - tagad mana garderobe ir praktiski pilnīga!
+![](/images/capsule-colors-2022.png)
+
+Ar krāsām esmu trāpījusi labi, jo arī šajā sezonā ir palikušas gandrīz visas iepriekšējās krāsas. Izmetu tikai tumši brūno, jo neredzu jēgu pelēkās krāsas uzskaitīt paletē. Tās ir manā garderobē, bet noteikti nav dominantas. 
+
+Klāt ir nākušas divas jaunas - nude pink (aka Redwood) un mālu zaļā (aka Morning Blue). Šīs abas krāsas man ir ļoti nozīmīga garderobes sastāvdaļa, jo katrā no tām ir vismaz viens ļoti bieži izmantots apģērba gabals un tās labi saskan un atsvaidzina pārējo paleti, iedodot vēsākus toņus ar ko spēlēties.
+
+## Secinājumi pēc gada ar pārdomātu paleti
+
+- man ļoti patīk audumi ar sīkiem, īpaši melnbaltiem, rakstiem (pumpas, līnijas, utml)
+- esmu atklājusi, ka garroku pogu krekli mēdz būt ērta un laba paskata alternatīva jakām
+- beidzot sagaidīju arī apakšveļas update - tagad mana garderobe ir praktiski gatava!
 - man patīk augstie kakli (turtleneck)
-- ar saskanīgām krāsām ir forši kombinēties - labāk vairāk kārtas, nekā biezas drēbes
-- Jūtos ļoti priecīga, kad varu novalkāt drēbes līdz galam un uzpildīt savu spilvenu
-- spilgti sarkana krāsa ir awesome!
+- ar saskanīgām krāsām ir forši kombinēties - labāk vairāk kārtas nekā biezas drēbes
+- jūtos priecīga, kad varu novalkāt drēbes līdz galam un uzpildīt savu spilvenu
+- spilgti sarkana krāsa ir *awesome*!
 
 ## Iepirkšanās paradumi
 
 - iepērkos pārsvarā second-hand, Otrā Elpa un Andele Mandele ir mani labākie draugi.
-- tagad, kad man ir laba bāze un esmu apmierināta ar savu skapi, pirkšu tikai dabīga materiāla un augstas kvalitātes lietas.
-- Vēlos ieviest ieradumu pirkt tikai 1 (labu) lietu sezonā/gadā.
-- gribu vairāk košas krāsas, it īpaši drēbēm, ko vilkt uz ielas, lai ir droši un smuki
+- tagad, kad man ir laba bāze un esmu apmierināta ar savu skapi, turpmāk papildināšu skapi tikai ar dabīga materiāla un augstas kvalitātes lietām, kuras mani ļoti uzrunā
+- vēlos ieviest ieradumu pirkt tikai 1 (labu) lietu sezonā/gadā.
+- gribu vairāk košas krāsas, it īpaši drēbēm, ko vilkt uz ielas
 - man vajag piebremzēt ar skapja uzpildi - es nevaru to visu novalkāt.
 - laiks apģērbt Kalvi!
 
