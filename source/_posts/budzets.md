@@ -51,6 +51,7 @@ Mērķis ir dabūt tirgus vidējo ienākumu līmeni ar augstu diversifikāciju.
 
 - individuālas akcijas (Delfin Group)
 - crypto
+- zeme Ukrainā
 - pārējais vēl nav izdomāts
 
 ## Nākamie soļi
