@@ -58,3 +58,4 @@ Mērķis ir dabūt tirgus vidējo ienākumu līmeni ar augstu diversifikāciju.
 Saprast, cik tad īsti liels ir portfelis:
 - saskaitīt visus aktīvus
 - veikt dzīvokļa remonta aprēķinus
+- apskatīt depozīta turēšanas iespējas (bankas, kas maksā par naudas turēšanu kontā 1-2%)
