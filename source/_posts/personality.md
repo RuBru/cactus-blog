@@ -1,8 +1,14 @@
 ---
-title: personality
+title: Personality tests
 date: 2023-01-22 15:11:44
 tags:
 ---
+
+## Summary of all personality tests
+
+
+
+--
 
 ## Insights Discovery
 
@@ -97,7 +103,7 @@ Rota is analytical, impersonal and interested in underlying principles. As **she
 
 In summer 2022 I also filled a personality test - [Strengths Finder 2.0](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx).
 
-Strengths Finder's phylosophy is that you should focus on your top 5-10 strengths, not your weaknesses. So you better understand and capilatize on them.
+Strengths Finder's phylosophy is that you should focus on your top 5-10 strengths. Capilatize and fully embrace them and not focus on your weaknesses.
 
 It also makes categories called domains. Contrary to Insights profile, Stregnths Finder categorizes your strengths, not your personality:
 
@@ -106,13 +112,20 @@ It also makes categories called domains. Contrary to Insights profile, Stregnths
 
 ### My strengths
 
-[My full Stregths profile](/docs/strengths.pdf) says my leading strengths are mostly in execution and really not in influencing:
+[My full Stregths profile](/docs/strengths.pdf) says I am the strongest in execution and the least in influencing:
 
 ![Line representing the amount of each domain in my strengths](/images/strengths_bar.png)
 
-
-
 ### Top strengths
+
+My [top 5 strengths](/docs/top5strengths.pdf) are:
+1. Arranger (executing)
+2. Responsibility (executing)
+3. Individualization (relationship building)
+4. Deliberative (executing)
+5. Connectedness (relationship building)
+
+A very stable, strongly purple and blue personality:
 
 ![An illustration that looks like a DNA sequence with domain colors inside.](/images/strengths_dna.png)
 
@@ -230,4 +243,42 @@ They are upbeat and can get others excited about what they are going to do.
 People who are especially talented in the Competition theme measure their progress against the
 performance of others. They strive to win first place and revel in contests.
 
-All these strengths copied from my [all strengths in order](/docs/all_strengths_in_order.pdf) report.
+The complete list of strengths copied from my [all strengths in order](/docs/all_strengths_in_order.pdf) report.
+
+---
+
+## Myers & Briggs 16 personalities
+
+[The Myers and Briggs 16 personalities](https://www.mbtionline.com/) is a very popular personality framework probably because it's free.
+
+I tried a few, and my favourite copy-cat version called [16 personalities](https://www.16personalities.com/) comes with a cute illustration style.
+
+This framework categorizes people in 4 preference pairs. Each combination becomes a personality type so that's why there are 16 of them.
+
+|Preference|pairs|Opposite ways to|
+|---|---|---|
+|**E**xtraversion|**I**ntroversion|direct and receive energy|
+|**S**ensing|i**N**tuition|take in information|
+|**T**hinking|**F**eeling|decide and come to conclusions|
+|**J**udging|**P**erceiving|approach the outside world|
+
+## My Myers & Briggs personality - executive
+
+![illustration of a woman with glasses, angry look and a ruler in hands](/images/executive.png)
+
+> Good order is the foundation of all things.
+
+
+16 personalities say I am an [ESTJ-T personality type](https://www.16personalities.com/estj-personality) with [social engagement strategy](https://www.16personalities.com/articles/strategies-social-engagement)
+
+![](/images/16personalities-results-1.png)
+![](/images/16personalities-results-2.png)
+
+The executive is described as traditional, loyal, honest and down to earth:
+
+> Executives are classic images of the model citizen: they help their neighbors, uphold the law, and try to make sure that everyone participates in the communities and organizations they hold so dear.
+
+Reading through it, I felt that it did not fully reflect myself (as I do not consider myself traditional and inflexible), but some parts felt accurate.
+
+
+What's interesting, is that ~5 years ago when I filled this test I was categorized in a completely different persoanlity type: ENTP - Debater. And also then I did not feel it was accurate.
