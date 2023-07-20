@@ -31,6 +31,19 @@ A way to calm down breath - put a hand on abdomen, breathe through nose or focus
 
 > you have a lifetime to nurture this practice, no need to rush.
 
+### Guided focus meditations
+
+[Mindfulness of body and breath](https://www.youtube.com/watch?v=fUeEnkjKyDs) (8m 10s)
+[Mindfulness body scan meditation](https://www.youtube.com/watch?v=CyKhfUdOEgs) (14m 47s)
+Guided meditations from Prof. Mark Williams.
+*Prof Wiliams is Founding Director and Honorary Senior Research Fellow, University of Oxford Mindfulness Centre.*
+
+[Selection of short guided mindfulness meditations](https://www.uclahealth.org/marc/mindful-meditations) (3-19 mins) from Diana Winston, Director of Mindfulness Education, Mindful Awareness Research Center, UCLA.
+
+[Attending to breath](https://www.youtube.com/watch?v=uQhYKN2L7oQ) (20m 00) Guided meditation from Adyashanti
+
+*Adyashanti is a renowned contemporary American spiritual teacher and author from the San Francisco Bay Area who offers talks, online study courses, and retreats in the United States and abroad.*
+
 ---
 
 ## Week 2 - RAIN: difficult emotions
@@ -49,6 +62,18 @@ Caring for your unfelt difficult emotions allows them to "compost", you help you
 
 If it becomes overwhelming, it's getting unhealthy to explore deeper. Best to change attention to something else.
 
+### Guided RAIN meditations
+
+[RAIN self-compassion](https://www.youtube.com/watch?v=wm1t5FyK5Ek) (11m 31s), guided meditation from Tara Brach.
+[RAIN self-compassion](https://www.youtube.com/watch?v=W8e_tAEM80k) (20m 15s), guided meditation from Tara Brach.
+*Tara is an American psychologist, author, and proponent of Buddhist meditation. She is a guiding teacher and founder of the Insight Meditation Community of Washington, D.C. (IMCW).*
+
+[RAIN self-compassion](https://www.tarabrach.com/wp-content/uploads/pdf/TaraBrach_RAIN_A-Practice-of-Radical-Compassion-HR.pdf), written guidelines from Tara Brach, with which you can do this practice at your own pace.
+
+[Selection of self-compassion guided meditations and exercises](https://self-compassion.org/category/exercises/#guided-meditations) from Kristin Neff.
+*Kristin Neff is an associate professor in the University of Texas at Austin's department of educational psychology. She is a pioneer in the field of self-compassion research, and conducted the first empirical studies on self-compassion.*
+
+
 ---
 
 ## Week 3 - Metta: heart practices
@@ -66,6 +91,17 @@ Cultivating loving kindness makes life for you and people around you easier.
 
 > "mindfulness is clear, bright, full of attention"
 > "our attention follows our intention"
+
+### Guided metta meditations
+
+
+[Loving-Kindness (Metta) guided meditation](https://www.youtube.com/watch?v=e-TeW9CI0bc) (8m 09s) with Sharon Salzberg.
+*Sharon Salzberg is a New York Times bestselling author and a renowned teacher of Buddhist meditation practices in the West. In 1974, she co-founded the Insight Meditation Society at Barre, Massachusetts, with Jack Kornfield and Joseph Goldstein.*
+
+[Embodied Metta](https://www.youtube.com/watch?v=zhiHCU2CpB0) (20m 05s) Guided meditation from Tara Brach
+
+[Selection of heart-opening meditations](https://jackkornfield.com/meditations/) (~30 mins) from Jack Kornfield.
+*Jack Kornfield (born 1945) is a American author and teacher in the Vipassana movement in American Theravada Buddhism. He has taught meditation worldwide since 1974 and is one of the key teachers to introduce Buddhist mindfulness practices to the West. In 1975, he co-founded the Insight Meditation Society in Barre, Massachusetts, with Sharon Salzberg and Joseph Goldstein, and subsequently in 1987, Spirit Rock Meditation Center in Woodacre, California. Jack is the senior teacher in Ollie’s teacher training course.*
 
 ---
 
