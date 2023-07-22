@@ -1,7 +1,7 @@
 ---
 title: Personality tests
 date: 2023-01-22 15:11:44
-tags:
+tags: [kursi,darbaprieks]
 ---
 
 ## Summary of all personality tests
