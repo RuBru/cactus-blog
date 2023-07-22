@@ -6,7 +6,13 @@ tags: [kursi,darbaprieks]
 
 ## Summary of all personality tests
 
+- My strongest traits are in executing and arranging projects and people using full information and data.
+- My biggest weakness is inspirational leadership. Do not expect me to inspire your team as that is highly straining for me.
+- I value commitments, honesty and teamwork.
 
+Mixed results from personality tests:
+- empathy - Strengths finder says I have it, Insights profile says I don't
+- Lack of humour - I have higher tolerance and enjoyment for humour than any test shows
 
 --
 
@@ -135,113 +141,73 @@ A very stable, strongly purple and blue personality:
 ![A table with 34 entries, each with a number and name of a strength](/images/strengths_table.png)
 
 1. **Arranger**
-People who are especially talented in the Arranger theme can organize, but they also have a
-flexibility that complements this ability. They like to figure out how all of the pieces and resources can
-be arranged for maximum productivity.
+People who are especially talented in the Arranger theme can organize, but they also have a flexibility that complements this ability. They like to figure out how all of the pieces and resources can be arranged for maximum productivity.
 2. **Responsibility**
-People who are especially talented in the Responsibility theme take psychological ownership of what
-they say they will do. They are committed to stable values such as honesty and loyalty.
+People who are especially talented in the Responsibility theme take psychological ownership of what they say they will do. They are committed to stable values such as honesty and loyalty.
 3. **Individualization**
-People who are especially talented in the Individualization theme are intrigued with the unique
-qualities of each person. They have a gift for figuring out how people who are different can work
-together productively.
+People who are especially talented in the Individualization theme are intrigued with the unique qualities of each person. They have a gift for figuring out how people who are different can work together productively.
 4. **Deliberative**
-People who are especially talented in the Deliberative theme are best described by the serious care
-they take in making decisions or choices. They anticipate the obstacles.
+People who are especially talented in the Deliberative theme are best described by the serious care they take in making decisions or choices. They anticipate the obstacles.
 5. **Connectedness**
-People who are especially talented in the Connectedness theme have faith in the links between all
-things. They believe there are few coincidences and that almost every event has a reason.
+People who are especially talented in the Connectedness theme have faith in the links between all things. They believe there are few coincidences and that almost every event has a reason.
 6. **Futuristic**
-People who are especially talented in the Futuristic theme are inspired by the future and what could
-be. They inspire others with their visions of the future.
+People who are especially talented in the Futuristic theme are inspired by the future and what could be. They inspire others with their visions of the future.
 7. **Relator**
-People who are especially talented in the Relator theme enjoy close relationships with others. They
-find deep satisfaction in working hard with friends to achieve a goal.
+People who are especially talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.
 8. **Harmony**
-People who are especially talented in the Harmony theme look for consensus. They don’t enjoy
-conflict; rather, they seek areas of agreement.
+People who are especially talented in the Harmony theme look for consensus. They don’t enjoy conflict; rather, they seek areas of agreement.
 9. **Intellection**
-People who are especially talented in the Intellection theme are characterized by their intellectual
-activity. They are introspective and appreciate intellectual discussions.
+People who are especially talented in the Intellection theme are characterized by their intellectual activity. They are introspective and appreciate intellectual discussions.
 10. **Input**
-People who are especially talented in the Input theme have a craving to know more. Often they like to
-collect and archive all kinds of information.
+People who are especially talented in the Input theme have a craving to know more. Often they like to collect and archive all kinds of information.
 11. **Significance**
-People who are especially talented in the Significance theme want to be very important in the eyes of
-others. They are independent and want to be recognized.
+People who are especially talented in the Significance theme want to be very important in the eyes of others. They are independent and want to be recognized.
 12. **Achiever**
-People who are especially talented in the Achiever theme have a great deal of stamina and work
-hard. They take great satisfaction from being busy and productive.
+People who are especially talented in the Achiever theme have a great deal of stamina and work hard. They take great satisfaction from being busy and productive.
 13. **Discipline**
-People who are especially talented in the Discipline theme enjoy routine and structure. Their world is
-best described by the order they create.
+People who are especially talented in the Discipline theme enjoy routine and structure. Their world is best described by the order they create.
 14. **Consistency**
-People who are especially talented in the Consistency theme are keenly aware of the need to treat
-people the same. They try to treat everyone in the world with consistency by setting up clear rules
-and adhering to them.
+People who are especially talented in the Consistency theme are keenly aware of the need to treat people the same. They try to treat everyone in the world with consistency by setting up clear rules and adhering to them.
 15. **Adaptability**
-People who are especially talented in the Adaptability theme prefer to “go with the flow.” They tend to
-be “now” people who take things as they come and discover the future one day at a time.
+People who are especially talented in the Adaptability theme prefer to “go with the flow.” They tend to be “now” people who take things as they come and discover the future one day at a time.
 16. **Learner**
-People who are especially talented in the Learner theme have a great desire to learn and want to
-continuously improve. In particular, the process of learning, rather than the outcome, excites them.
+People who are especially talented in the Learner theme have a great desire to learn and want to continuously improve. In particular, the process of learning, rather than the outcome, excites them.
 17. **Analytical**
-People who are especially talented in the Analytical theme search for reasons and causes. They
-have the ability to think about all the factors that might affect a situation.
+People who are especially talented in the Analytical theme search for reasons and causes. They have the ability to think about all the factors that might affect a situation.
 18. **Belief**
-People who are especially talented in the Belief theme have certain core values that are unchanging.
-Out of these values emerges a defined purpose for their life.
+People who are especially talented in the Belief theme have certain core values that are unchanging. Out of these values emerges a defined purpose for their life.
 19. **Developer**
-People who are especially talented in the Developer theme recognize and cultivate the potential in
-others. They spot the signs of each small improvement and derive satisfaction from these
-improvements.
+People who are especially talented in the Developer theme recognize and cultivate the potential in others. They spot the signs of each small improvement and derive satisfaction from these improvements.
 20. **Self-Assurance**
-People who are especially talented in the Self-Assurance theme feel confident in their ability to
-manage their own lives. They possess an inner compass that gives them confidence that their
-decisions are right.
+People who are especially talented in the Self-Assurance theme feel confident in their ability to manage their own lives. They possess an inner compass that gives them confidence that their decisions are right.
 21. **Restorative**
-People who are especially talented in the Restorative theme are adept at dealing with problems. They
-are good at figuring out what is wrong and resolving it.
+People who are especially talented in the Restorative theme are adept at dealing with problems. They are good at figuring out what is wrong and resolving it.
 22. **Focus**
-People who are especially talented in the Focus theme can take a direction, follow through, and make
-the corrections necessary to stay on track. They prioritize, then act.
+People who are especially talented in the Focus theme can take a direction, follow through, and make the corrections necessary to stay on track. They prioritize, then act.
 23. **Communication**
-People who are especially talented in the Communication theme generally find it easy to put their
-thoughts into words. They are good conversationalists and presenters.
+People who are especially talented in the Communication theme generally find it easy to put their thoughts into words. They are good conversationalists and presenters.
 24. **Empathy**
-People who are especially talented in the Empathy theme can sense the feelings of other people by
-imagining themselves in others’ lives or others’ situations.
+People who are especially talented in the Empathy theme can sense the feelings of other people by imagining themselves in others’ lives or others’ situations.
 25. **Maximizer**
-People who are especially talented in the Maximizer theme focus on strengths as a way to stimulate
-personal and group excellence. They seek to transform something strong into something superb.
+People who are especially talented in the Maximizer theme focus on strengths as a way to stimulate personal and group excellence. They seek to transform something strong into something superb.
 26. **Context**
-People who are especially talented in the Context theme enjoy thinking about the past. They
-understand the present by researching its history.
+People who are especially talented in the Context theme enjoy thinking about the past. They understand the present by researching its history.
 27. **Strategic**
-People who are especially talented in the Strategic theme create alternative ways to proceed. Faced
-with any given scenario, they can quickly spot the relevant patterns and issues.
+People who are especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.
 28. **Command**
-People who are especially talented in the Command theme have presence. They can take control of
-a situation and make decisions.
+People who are especially talented in the Command theme have presence. They can take control of a situation and make decisions.
 29. **Includer**
-People who are especially talented in the Includer theme are accepting of others. They show
-awareness of those who feel left out, and make an effort to include them.
+People who are especially talented in the Includer theme are accepting of others. They show awareness of those who feel left out, and make an effort to include them.
 30. **Ideation**
-People who are especially talented in the Ideation theme are fascinated by ideas. They are able to
-find connections between seemingly disparate phenomena.
+People who are especially talented in the Ideation theme are fascinated by ideas. They are able to find connections between seemingly disparate phenomena.
 31. **Activator**
-People who are especially talented in the Activator theme can make things happen by turning
-thoughts into action. They are often impatient.
+People who are especially talented in the Activator theme can make things happen by turning thoughts into action. They are often impatient.
 32. **Woo**
-People who are especially talented in the Woo theme love the challenge of meeting new people and
-winning them over. They derive satisfaction from breaking the ice and making a connection with
-another person.
+People who are especially talented in the Woo theme love the challenge of meeting new people and winning them over. They derive satisfaction from breaking the ice and making a connection with another person.
 33. **Positivity**
-People who are especially talented in the Positivity theme have an enthusiasm that is contagious.
-They are upbeat and can get others excited about what they are going to do.
+People who are especially talented in the Positivity theme have an enthusiasm that is contagious. They are upbeat and can get others excited about what they are going to do.
 34. **Competition**
-People who are especially talented in the Competition theme measure their progress against the
-performance of others. They strive to win first place and revel in contests.
+People who are especially talented in the Competition theme measure their progress against the performance of others. They strive to win first place and revel in contests.
 
 The complete list of strengths copied from my [all strengths in order](/docs/all_strengths_in_order.pdf) report.
 
@@ -264,14 +230,12 @@ This framework categorizes people in 4 preference pairs. Each combination become
 
 ## My Myers & Briggs personality - executive
 
-![illustration of a woman with glasses, angry look and a ruler in hands](/images/executive.png)
-
 > Good order is the foundation of all things.
+> 
+![illustration of a woman with glasses, angry look and a ruler in hands and acronym ESTJ-T](/images/16personalities-results-1.png)
 
+16 personalities say I am an [ESTJ-T personality type](https://www.16personalities.com/estj-personality) - the executive - with [social engagement strategy](https://www.16personalities.com/articles/strategies-social-engagement)
 
-16 personalities say I am an [ESTJ-T personality type](https://www.16personalities.com/estj-personality) with [social engagement strategy](https://www.16personalities.com/articles/strategies-social-engagement)
-
-![](/images/16personalities-results-1.png)
 ![](/images/16personalities-results-2.png)
 
 The executive is described as traditional, loyal, honest and down to earth:
@@ -280,5 +244,4 @@ The executive is described as traditional, loyal, honest and down to earth:
 
 Reading through it, I felt that it did not fully reflect myself (as I do not consider myself traditional and inflexible), but some parts felt accurate.
 
-
-What's interesting, is that ~5 years ago when I filled this test I was categorized in a completely different persoanlity type: ENTP - Debater. And also then I did not feel it was accurate.
+Weirdly, ~5 years ago when I filled this test I was categorized in a completely different persoanlity type: ENTP - Debater. And also then I did not feel it was accurate.
