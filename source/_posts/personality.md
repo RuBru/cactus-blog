@@ -29,7 +29,7 @@ and bad days:
 
 ---
 
-## My Insights profile
+### My Insights profile
 
 [My full Insights profile](/docs/reforming-observer-classic.pdf)
 
@@ -228,10 +228,10 @@ This framework categorizes people in 4 preference pairs. Each combination become
 |**T**hinking|**F**eeling|decide and come to conclusions|
 |**J**udging|**P**erceiving|approach the outside world|
 
-## My Myers & Briggs personality - executive
+### My Myers & Briggs personality - executive
 
 > Good order is the foundation of all things.
-> 
+
 ![illustration of a woman with glasses, angry look and a ruler in hands and acronym ESTJ-T](/images/16personalities-results-1.png)
 
 16 personalities say I am an [ESTJ-T personality type](https://www.16personalities.com/estj-personality) - the executive - with [social engagement strategy](https://www.16personalities.com/articles/strategies-social-engagement)
@@ -245,3 +245,20 @@ The executive is described as traditional, loyal, honest and down to earth:
 Reading through it, I felt that it did not fully reflect myself (as I do not consider myself traditional and inflexible), but some parts felt accurate.
 
 Weirdly, ~5 years ago when I filled this test I was categorized in a completely different persoanlity type: ENTP - Debater. And also then I did not feel it was accurate.
+
+---
+
+## Principles of you - Seeker
+
+Filled a [Principles of You](https://principlesyou.com/share/yyYSkbYlhK4c5q0) test recommended from SSE Riga application process. Unfortunately, it gave no clear results, but a general sense that I belong on the Seeker island that has such traits as:
+- conceptual
+- tough
+- humble
+
+![](/images/archetypes.png)
+
+My main traits were:
+- extremely practical thinker
+- humble self application
+- slightly tough with others
+
