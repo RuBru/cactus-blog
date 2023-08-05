@@ -182,3 +182,18 @@ Yes, as pain is often stronger in a specific place, while positive feelings can 
 ## Resources
 
 A ton of useful links to resources and QA tested meditations are in the original [course material](/docs/mindfulness-practice-guide.pdf).
+
+### Ollie's guided meditations
+
+Practices:
+- [Mindfulness practice (mp3)](/audio/mindfulness-practice.mp3) (20 minutes 14 seconds)
+- [RAIN practice (mp3)](/audio/rain-practice.mp3) (14 minutes 57 seconds)
+- [Loving kindness practice (mp3)](/audio/loving-kindness-practice.mp3) (18 minutes 23 seconds)
+- [Vipassana practice (mp3)](/audio/vipassana-practice.mp3) (15 minutes 0 seconds)
+
+Shorter mindfulness meditations:
+- [Ease in the present (mp3)](/audio/ease-in-the-present.mp3) (4 minutes 50 seconds)
+- [Noticing your Self (mp3)](/audio/noticing-your-self.mp3) (11 minutes 23 seconds)
+- [Thoughts in suitcases (mp3)](/audio/thoughts-in-suitcases.mp3) (12 minutes 16 seconds)
+
+![EA mindfulness course cover](/audio/cover.png)

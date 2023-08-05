@@ -4,7 +4,7 @@ date: 2023-07-28 22:45:46
 tags: [kursi,dizains]
 ---
 
-Šī gada pavasarī pievienojos [Pavasara mēbeļu](https://www.pavasaramebeles.lv/) maija mēbeļu atjaunošanas vakara skolai. Tā ilga 1.5 mēnešus un man personīgi visus 2 mēnešus.
+2023. gada pavasarī pievienojos [Pavasara mēbeļu](https://www.pavasaramebeles.lv/) maija mēbeļu atjaunošanas vakara skolai. Tā ilga 1.5 mēnešus un man personīgi visus 2 mēnešus.
 
 Skolas ietvaros mēs:
 - iepazināmies ar koka un mīksto mēbeļu atjaunošanas teorijai
@@ -161,7 +161,8 @@ Paveidi, ar kādām lakām var saskarties:
 
 ## Resursi
 
-krāsu veikals Ota -10% mēbeļu skolas dalībniekiem.
+- krāsu veikals Ota -10% mēbeļu skolas dalībniekiem.
+- mūža bezmaksas konsultācijas no [pavasara mēbeles](pavasaramebeles@gmail.com) atjaunošanas jautājumos.
 
 Kursa teorijas materiāli:
 - [Krēsla atjaunošana](/docs/PM-kresls.pdf)
