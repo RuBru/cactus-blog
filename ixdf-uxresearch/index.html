@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang=lv>
+<head>
+    <!-- so meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+    <meta name="description" content="Lietotāju izpētes kurss ar ieskatu metodēs un procesos, kas saistīti ar izpēti. Kurss palīdzēja man nospraust robežas starp to, ko dara lietojamības pētnieks, un ko - dizaineris.  Research plan theory">
+<meta property="og:type" content="article">
+<meta property="og:title" content="User Research – Methods and Best Practices course by IxDF">
+<meta property="og:url" content="https://blog.bruna.lv/ixdf-uxresearch/index.html">
+<meta property="og:site_name" content="Rū prāta paplašinājums">
+<meta property="og:description" content="Lietotāju izpētes kurss ar ieskatu metodēs un procesos, kas saistīti ar izpēti. Kurss palīdzēja man nospraust robežas starp to, ko dara lietojamības pētnieks, un ko - dizaineris.  Research plan theory">
+<meta property="og:locale">
+<meta property="og:image" content="https://blog.bruna.lv/images/usability-studies.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/semi-strucutred-interviews.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/contextual-inquiry.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/naturalistic-observation.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/affinity-diagram.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/empathy-map.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/user-journey-map.webp">
+<meta property="og:image" content="https://blog.bruna.lv/images/persona.webp">
+<meta property="article:published_time" content="2022-11-29T09:46:41.000Z">
+<meta property="article:modified_time" content="2023-08-07T10:40:12.595Z">
+<meta property="article:author" content="Rota Kalniņa">
+<meta property="article:tag" content="kursi">
+<meta property="article:tag" content="dizains">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog.bruna.lv/images/usability-studies.webp">
+    
+    
+      
+        
+          
+            <link rel="shortcut icon" href="https://www.gravatar.com/avatar/7c82112facabb254bb3cdba0d8d772b6?s=48">
+          
+        
+      
+      
+        
+          
+            <link rel="icon" type="image/png" href="https://www.gravatar.com/avatar/7c82112facabb254bb3cdba0d8d772b6?s=192" sizes="192x192">
+          
+        
+      
+      
+        
+          
+            <link rel="apple-touch-icon" sizes="180x180" href="https://www.gravatar.com/avatar/7c82112facabb254bb3cdba0d8d772b6?s=180">
+          
+        
+      
+    
+    <!-- title -->
+    <title>User Research – Methods and Best Practices course by IxDF</title>
+    <!-- styles -->
+    
+<link rel="stylesheet" href="/css/style.css">
+
+    <!-- persian styles -->
+    
+    <!-- rss -->
+    
+    
+	<!-- mathjax -->
+	
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body class="max-width mx-auto px3 ltr">
+    
+      <div id="header-post">
+  <a id="menu-icon" href="#" aria-label="Izvēlne"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#" aria-label="Izvēlne"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" aria-label="Uz augšu" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <span id="menu">
+    <span id="nav">
+      <ul>
+        <!--
+       --><li><a href="/">Sākums</a></li><!--
+     --><!--
+       --><li><a href="/archives/">Raksti</a></li><!--
+     --><!--
+       --><li><a href="/about/">Par</a></li><!--
+     -->
+      </ul>
+    </span>
+    <br/>
+    <span id="actions">
+      <ul>
+        
+        <li><a class="icon" aria-label="Iepriekšējais ieraksts" href="/capsule/"><i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i></a></li>
+        
+        
+        <li><a class="icon" aria-label="Nākamais ieraksts" href="/wud/"><i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i></a></li>
+        
+        <li><a class="icon" aria-label="Atpakaļ uz augšu" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i></a></li>
+        <li><a class="icon" aria-label="Dalīties ar ierakstu" href="#"><i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i></a></li>
+      </ul>
+      <span id="i-prev" class="info" style="display:none;">Iepriekšējais ieraksts</span>
+      <span id="i-next" class="info" style="display:none;">Nākamais ieraksts</span>
+      <span id="i-top" class="info" style="display:none;">Atpakaļ uz augšu</span>
+      <span id="i-share" class="info" style="display:none;">Dalīties ar ierakstu</span>
+    </span>
+    <br/>
+    <div id="share" style="display: none">
+      <ul>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://blog.bruna.lv/ixdf-uxresearch/"><i class="fab fa-facebook " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://https://blog.bruna.lv/ixdf-uxresearch/"><i class="fas fa-globe " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://blog.bruna.lv/ixdf-uxresearch/&text=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-twitter " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://blog.bruna.lv/ixdf-uxresearch/&is_video=false&description=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-pinterest " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=User Research – Methods and Best Practices course by IxDF&body=Check out this article: https://blog.bruna.lv/ixdf-uxresearch/"><i class="fas fa-envelope " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-get-pocket " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-reddit " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-stumbleupon " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-digg " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://blog.bruna.lv/ixdf-uxresearch/&name=User Research – Methods and Best Practices course by IxDF&description="><i class="fab fa-tumblr " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=https://blog.bruna.lv/ixdf-uxresearch/&t=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-hacker-news " aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+    <div id="toc">
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Research-plan-theory"><span class="toc-number">1.</span> <span class="toc-text">Research plan theory</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Usability-studies"><span class="toc-number">2.</span> <span class="toc-text">Usability studies</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#what-is-measured"><span class="toc-number">2.1.</span> <span class="toc-text">what is measured</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Usability-issues"><span class="toc-number">2.2.</span> <span class="toc-text">Usability issues:</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#planning-usability-test"><span class="toc-number">2.3.</span> <span class="toc-text">planning usability test</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Sample-sizes"><span class="toc-number">2.3.1.</span> <span class="toc-text">Sample sizes</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#User-test"><span class="toc-number">3.</span> <span class="toc-text">User test</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Pre-test-optional"><span class="toc-number">3.1.</span> <span class="toc-text">Pre-test (optional)</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#The-Test-listening-mode"><span class="toc-number">3.2.</span> <span class="toc-text">The Test - listening mode</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Post-test"><span class="toc-number">3.3.</span> <span class="toc-text">Post test</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Dry-runs-test-the-test"><span class="toc-number">3.4.</span> <span class="toc-text">Dry runs - test the test</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Test-report"><span class="toc-number">3.5.</span> <span class="toc-text">Test report</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#User-interviews"><span class="toc-number">4.</span> <span class="toc-text">User interviews</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Pros-and-cons-of-semi-strucutred-interviews"><span class="toc-number">4.1.</span> <span class="toc-text">Pros and cons of semi-strucutred interviews</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#When-to-conduct-user-interviews"><span class="toc-number">4.2.</span> <span class="toc-text">When to conduct user interviews</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Questions"><span class="toc-number">4.3.</span> <span class="toc-text">Questions</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Follow-up-questions"><span class="toc-number">4.3.1.</span> <span class="toc-text">Follow-up questions</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Data-gathering"><span class="toc-number">4.4.</span> <span class="toc-text">Data gathering</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Types-of-data-their-pros-and-cons"><span class="toc-number">4.4.1.</span> <span class="toc-text">Types of data, their pros and cons:</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Thematic-analysis"><span class="toc-number">4.5.</span> <span class="toc-text">Thematic analysis</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Pitfalls"><span class="toc-number">4.5.1.</span> <span class="toc-text">Pitfalls</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Contextual-inquiry"><span class="toc-number">5.</span> <span class="toc-text">Contextual inquiry</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Four-main-principles"><span class="toc-number">5.1.</span> <span class="toc-text">Four main principles:</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#When-to-use"><span class="toc-number">5.2.</span> <span class="toc-text">When to use?</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Who-is-involved"><span class="toc-number">5.3.</span> <span class="toc-text">Who is involved?</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Alternatives"><span class="toc-number">5.4.</span> <span class="toc-text">Alternatives</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Practicalities"><span class="toc-number">5.5.</span> <span class="toc-text">Practicalities</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Time-and-effort"><span class="toc-number">5.5.1.</span> <span class="toc-text">Time and effort</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Consent"><span class="toc-number">5.5.2.</span> <span class="toc-text">Consent</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Running-a-contextual-inquiry"><span class="toc-number">5.6.</span> <span class="toc-text">Running a contextual inquiry</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Introduction"><span class="toc-number">5.6.1.</span> <span class="toc-text">Introduction</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Session"><span class="toc-number">5.6.2.</span> <span class="toc-text">Session</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Notes-should"><span class="toc-number">5.6.3.</span> <span class="toc-text">Notes should</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Recordings"><span class="toc-number">5.6.4.</span> <span class="toc-text">Recordings</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Close"><span class="toc-number">5.7.</span> <span class="toc-text">Close</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Coding-and-interpretation"><span class="toc-number">5.8.</span> <span class="toc-text">Coding and interpretation</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Analyzing-results"><span class="toc-number">5.9.</span> <span class="toc-text">Analyzing results</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Affinity-diagramming"><span class="toc-number">5.10.</span> <span class="toc-text">Affinity diagramming</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Triangulation"><span class="toc-number">5.11.</span> <span class="toc-text">Triangulation</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Direct-observation"><span class="toc-number">6.</span> <span class="toc-text">Direct observation</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#The-W-questions"><span class="toc-number">6.1.</span> <span class="toc-text">The W questions</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Why-would-you-do-direct-observation"><span class="toc-number">6.1.1.</span> <span class="toc-text">Why would you do direct observation?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#When-you-might-do-it"><span class="toc-number">6.1.2.</span> <span class="toc-text">When you might do it?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Who-and-how-many-with"><span class="toc-number">6.1.3.</span> <span class="toc-text">Who and how many with?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Potential-audiences"><span class="toc-number">6.1.4.</span> <span class="toc-text">Potential audiences:</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#What-they-do"><span class="toc-number">6.1.5.</span> <span class="toc-text">What they do?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Where-they-do-it"><span class="toc-number">6.1.6.</span> <span class="toc-text">Where they do it?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Managing-trust"><span class="toc-number">6.1.7.</span> <span class="toc-text">Managing trust</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#During-observation"><span class="toc-number">6.2.</span> <span class="toc-text">During observation</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#What-to-observe"><span class="toc-number">6.2.1.</span> <span class="toc-text">What to observe:</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Analyzing-results-1"><span class="toc-number">6.3.</span> <span class="toc-text">Analyzing results</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Estrangement"><span class="toc-number">6.3.1.</span> <span class="toc-text">Estrangement</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Appropriation"><span class="toc-number">6.3.2.</span> <span class="toc-text">Appropriation</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Distance"><span class="toc-number">6.3.3.</span> <span class="toc-text">Distance</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#Dialectic-re-coding"><span class="toc-number">6.3.3.1.</span> <span class="toc-text">Dialectic (re)coding:</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Engagement"><span class="toc-number">6.3.4.</span> <span class="toc-text">Engagement</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Communicating-results"><span class="toc-number">7.</span> <span class="toc-text">Communicating results</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Potential-methods"><span class="toc-number">7.1.</span> <span class="toc-text">Potential methods</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Personas"><span class="toc-number">7.1.1.</span> <span class="toc-text">Personas</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Further-reading"><span class="toc-number">8.</span> <span class="toc-text">Further reading</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Course-materials-pdf"><span class="toc-number">9.</span> <span class="toc-text">Course materials (pdf)</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Examples"><span class="toc-number">9.1.</span> <span class="toc-text">Examples</span></a></li></ol></li></ol>
+    </div>
+  </span>
+</div>
+
+    
+    <div class="content index py4">
+        
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    
+    <h1 class="posttitle" itemprop="name headline">
+        User Research – Methods and Best Practices course by IxDF
+    </h1>
+
+
+
+    <div class="meta">
+      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">Rota Kalniņa</span>
+      </span>
+      
+    <div class="postdate">
+      
+        <time datetime="2022-11-29T09:46:41.000Z" itemprop="datePublished">2022-11-29</time>
+        
+      
+    </div>
+
+
+      
+
+      
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link-link" href="/tags/dizains/" rel="tag">dizains</a>, <a class="tag-link-link" href="/tags/kursi/" rel="tag">kursi</a>
+    </div>
+
+
+    </div>
+  </header>
+  
+
+  <div class="content" itemprop="articleBody">
+    <p>Lietotāju izpētes kurss ar ieskatu metodēs un procesos, kas saistīti ar izpēti.</p>
+<p>Kurss palīdzēja man nospraust robežas starp to, ko dara lietojamības pētnieks, un ko - dizaineris.</p>
+<hr>
+<h2 id="Research-plan-theory"><a href="#Research-plan-theory" class="headerlink" title="Research plan theory"></a>Research plan theory</h2><ol>
+<li>Purpose - the overall question I want to answer</li>
+<li>Method - the best way to answer the question</li>
+<li>Participants - who they are and how we will recruit them</li>
+<li>location (adn equipment)</li>
+<li>script(intro&#x2F;interview guide&#x2F;questions)</li>
+<li>what data will you collect and analyse</li>
+<li>consent: purpose, consent form or verbally, voluntary, NDA</li>
+<li>communication</li>
+<li>time plan (without a specific schedule)</li>
+</ol>
+<p>pilot studies - test your setup and script</p>
+<hr>
+<h2 id="Usability-studies"><a href="#Usability-studies" class="headerlink" title="Usability studies"></a>Usability studies</h2><p><img src="/images/usability-studies.webp"></p>
+<p>In a usability test, you can determine quite a few metrics:</p>
+<p>quantitative:</p>
+<ul>
+<li>time on task</li>
+<li><strong>success&#x2F;failure rate</strong></li>
+<li>effort (# of clicks&#x2F;perception of progress)</li>
+</ul>
+<p>qualitative:</p>
+<ul>
+<li>stress response</li>
+<li>subject satisfaction</li>
+<li>percieved effort or difficulty</li>
+</ul>
+<h3 id="what-is-measured"><a href="#what-is-measured" class="headerlink" title="what is measured"></a>what is measured</h3><ol>
+<li>success rate (100%&#x2F;50%&#x2F;0%)</li>
+<li>Errors per task</li>
+<li>of Confusions per task</li>
+</ol>
+<p><strong>Behaviour!</strong></p>
+<ul>
+<li>task performance</li>
+<li>speed</li>
+<li>efficiency</li>
+<li>goal fulfilment</li>
+<li>expectation matching</li>
+</ul>
+<p><strong>Opinions</strong> (at the end of a test)</p>
+<ul>
+<li>how it looks</li>
+<li>thoughts</li>
+</ul>
+<p><strong>Data</strong></p>
+<ul>
+<li>Visitors</li>
+<li>pages</li>
+<li>documents</li>
+</ul>
+<h3 id="Usability-issues"><a href="#Usability-issues" class="headerlink" title="Usability issues:"></a>Usability issues:</h3><ul>
+<li>not seeing something</li>
+<li>going the wrong direction</li>
+<li>thinking it’s correct when it isn’t</li>
+<li>missing a “rule” (typical design patterns)</li>
+</ul>
+<p>you get out of it:</p>
+<ul>
+<li>confusions</li>
+<li>errors</li>
+<li>actual vs expected difficulty (gets out of the flow)</li>
+<li>highlights</li>
+<li>severity rating (impact vs % of users who had the issue)</li>
+<li>ease of use - do they get the task: failure rate 0%, partial success 50%, success 100%</li>
+</ul>
+<h3 id="planning-usability-test"><a href="#planning-usability-test" class="headerlink" title="planning usability test"></a>planning usability test</h3><h4 id="Sample-sizes"><a href="#Sample-sizes" class="headerlink" title="Sample sizes"></a>Sample sizes</h4><ul>
+<li>surverys &#x3D; ~240 - ~1000 +</li>
+<li>focus groups &#x3D; 15-20</li>
+<li>usability testing &#x3D; 10-15 users (5 users per segment)</li>
+<li>field studies &#x3D; 15-40 participants</li>
+<li>card sorting &#x3D; 15-30 (higher is better, as this is quantitative)</li>
+</ul>
+<p>mobile &#x3D; distracting</p>
+<p>max 1 hour<br>10-15 tasks</p>
+<p><strong>psychographic perspective</strong> could be used instad of classic segments.</p>
+<p>put easy tasks in the beginning, hard in the middle.</p>
+<p>“I want you to think aloud - tell me what are you thinking and feeling.”</p>
+<h2 id="User-test"><a href="#User-test" class="headerlink" title="User test"></a>User test</h2><p>testing expectations and make sure you tie it to business and user objectives</p>
+<h3 id="Pre-test-optional"><a href="#Pre-test-optional" class="headerlink" title="Pre-test (optional)"></a>Pre-test (optional)</h3><p>6-10 questions about anything that helps clarify who you are testing</p>
+<h3 id="The-Test-listening-mode"><a href="#The-Test-listening-mode" class="headerlink" title="The Test - listening mode"></a>The Test - listening mode</h3><p>Go through tasks<br>monotonous tonality<br>ask reverse questions<br>use pauses and silence, use okay, uh-huh<br>let users struggle, he does it even up to 10-15min.</p>
+<blockquote>
+<p>“Okay, you are helping us identify what we’re looking for.”</p>
+</blockquote>
+<p>instructions at the beginning:</p>
+<ol>
+<li>Thank you for helping us</li>
+<li>Purpose of evaluation (here to get your feedback on design. No right or wrong answers).</li>
+<li>Use these tasks to find the answer on the site</li>
+<li>Think out lound so I can follow along (tell me what you are thinking and feeling). We’re video recording striclty for note taking purposes.</li>
+<li>Go on to the next task when ready (move at your own pace when you feel you found the answer)</li>
+<li>I will ask you some questions afterward when you are done. As we go through, if you have any questions, I might not be able to answer them.</li>
+</ol>
+<h3 id="Post-test"><a href="#Post-test" class="headerlink" title="Post test"></a>Post test</h3><p>interview style questions<br>subjective satisfaction</p>
+<p>SUS - standard usability scale</p>
+<p>“If there is 1 thing we could change - keep everything else the same and change 1 thing - what one thing would you have us change? “<br>“If there is 1 thing we could keep the same - change everything else and keep just 1 thing - what one thing would you have us keep the same? “</p>
+<h3 id="Dry-runs-test-the-test"><a href="#Dry-runs-test-the-test" class="headerlink" title="Dry runs - test the test"></a>Dry runs - test the test</h3><p>validate that tasks can be performed<br>verify that hardware and software are working properly</p>
+<p><strong>DON’T</strong></p>
+<ul>
+<li>change tasks midway</li>
+<li>go in wihtout a back-up-plan</li>
+</ul>
+<h3 id="Test-report"><a href="#Test-report" class="headerlink" title="Test report"></a>Test report</h3><p>user advocacy attitude</p>
+<p>“I saw this” is better than “I think this”<br>prioritize findings</p>
+<p>keep it short (10-15 slides&#x2F;pages)<br>show screenshots<br>include also positive things</p>
+<p>prepare a summary<br>avoid harsh words and tones</p>
+<p>try to report out immediately</p>
+<p>avoid confrontations, be flexible with recommendations</p>
+<hr>
+<h2 id="User-interviews"><a href="#User-interviews" class="headerlink" title="User interviews"></a>User interviews</h2><p><img src="/images/semi-strucutred-interviews.webp"></p>
+<p>conversation with a set of topics to cover that flows naturally. It has a specific agenda, but is allowed to move away from that if the interviewee moves to another topic or says someting interesting to follow upon.</p>
+<p>Good for generating insights in design projects as it is possible to explore the topics you have and have not yet thought about.</p>
+<h3 id="Pros-and-cons-of-semi-strucutred-interviews"><a href="#Pros-and-cons-of-semi-strucutred-interviews" class="headerlink" title="Pros and cons of semi-strucutred interviews"></a>Pros and cons of semi-strucutred interviews</h3><blockquote>
+<p>.. you should ask the concrete “how” and “what” questions before you ask the more abstract “why” questions.</p>
+</blockquote>
+<ul>
+<li>Good for the “why” people do things, their values and reasoning.</li>
+<li>Also good for sourcing ideas and making sure next research steps are on point.</li>
+</ul>
+<ul>
+<li>Bad with “what”. That is better done with observation as people don’t remember unremarkable things and take them for granted.</li>
+<li>Also, bad for getting an answer to questions like “would you like to use our product?” as people are bad at anticipating what they might do in the future or their attitudes to future products.</li>
+</ul>
+<h3 id="When-to-conduct-user-interviews"><a href="#When-to-conduct-user-interviews" class="headerlink" title="When to conduct user interviews"></a>When to conduct user interviews</h3><ul>
+<li><strong>for exploration</strong>: to form the knowledge basis before any design or research decisions are made, to gather context for moving forward.</li>
+<li><strong>in combination with user testing</strong>: before and after usability tests, to get the “why” any actions or decisions were made.</li>
+<li><strong>concept explorations</strong>: as you are in the proccess of making your concept, ask about the relevant problem space without revealing your specific soultion as that can taint the information gathered.</li>
+<li><strong>in combination with observations</strong>: best ir afterwards, but while you both are at the context of performing the actions, ask to clarify and explain their thought. Or ask to explain their interaction as though explaining to a novice user.</li>
+</ul>
+<h3 id="Questions"><a href="#Questions" class="headerlink" title="Questions"></a>Questions</h3><p>prepare an interview guide and test it with a friend to check if:</p>
+<ul>
+<li>you are using understandable language for the interviewee</li>
+<li>the questions are ordered in a way that makes sense</li>
+</ul>
+<p>The flow:</p>
+<ol>
+<li>easy, but specific questions at the beginning</li>
+<li>all the bulk of info you want to get in the middle</li>
+<li>reflective and reverse questions at the end</li>
+<li>how the information will be used (agency)</li>
+</ol>
+<p>Tips:</p>
+<ul>
+<li>ask for specific instances (last time)</li>
+<li>invoke incidents particulary memorable (as these memories are more reliable)</li>
+<li>go with the flow! Ask questions in free-form, follow the thought of the interviewee</li>
+<li>building rapport is important to make everyone feel comfortable. allow for some off-topic talk if that does not take too long.</li>
+<li>best conversation flow is attained by asking follow up questions and listening carefully</li>
+</ul>
+<blockquote>
+<p>Qualitative studies are mostly driven by questions, quantitative - by hypothesis.</p>
+</blockquote>
+<blockquote>
+<p>Rapport equals trust plus comfort.</p>
+</blockquote>
+<h4 id="Follow-up-questions"><a href="#Follow-up-questions" class="headerlink" title="Follow-up questions"></a>Follow-up questions</h4><blockquote>
+<p>ideally—you should only ask one kick-off question and allow the rest of the interview to flow naturally from there. Obviously, you steer the conversation and you sometimes consult your interview guide, but if you listen to your participant, most of your questions can&#x2F;will be phrased as follow-up questions to something the participant has said. In that case, you mainly use your interview guide as a reference to see if you have forgotten anything, to get back on track if you draw a blank and can’t remember where the conversation was going, or if the interview strays too far off-topic and you need help to get back on track.</p>
+</blockquote>
+<ol>
+<li>Introductory questions</li>
+</ol>
+<p>Questions where your participants can make spontaneous, rich descriptions of a situation or context: e.g., “Can you describe the last time you…?”.</p>
+<ol start="2">
+<li>Follow-up questions</li>
+</ol>
+<p>Here, you follow up on something the participant has said either by asking about what the participant has just told you or simply by encouraging the participant to carry on with what he&#x2F;she was saying by nodding, pausing, or saying “mm”.</p>
+<ol start="3">
+<li>Probing questions</li>
+</ol>
+<p>With probing questions, you ask participants directly to elaborate on what they were saying: e.g., “Can you give me an example of that…?” or “Can you explain in more detail…?”.</p>
+<ol start="4">
+<li>Specifying questions</li>
+</ol>
+<p>If you feel like you are getting too generalized a description, you can try asking specifying questions: e.g., “What concretely did you do?” or “How did that make you feel?”.</p>
+<ol start="5">
+<li>Direct questions</li>
+</ol>
+<p>With direct questions, you introduce topics directly, because you know they are either of interest to your project or based on something the participant has said earlier: e.g., “Do you have any experience with x-brand video streaming service?”. It is best to wait with direct questions until the last part of the interview, so that you give participants a chance to describe their perspective before you introduce your own interests.</p>
+<ol start="6">
+<li>Indirect questions</li>
+</ol>
+<p>If there are questions where you don’t want to ask the participants directly about their experiences with something, you can ask them more indirectly: e.g., “Do you think other people sometimes find the user interface difficult?”. The answer can reflect both the participants’ own experiences and how they interpret the experiences of others, so you should be careful how you interpret their answers to any indirect questions.</p>
+<ol start="7">
+<li>Structuring questions</li>
+</ol>
+<p>You use structuring questions when you want to change the topic of the conversation or to get back on track if the interview has gone too off-topic. In that case, you briefly acknowledge that you have understood what the participant is saying and then say—e.g.—“let’s move on to…”.</p>
+<ol start="8">
+<li>Silence</li>
+</ol>
+<p>When you conduct an interview, try not to fear pauses in the conversation. Leaving a bit of quiet time after your participants answer allows them to think and follow up with additional information. How quiet you can be is a balancing act, and you shouldn’t be so quiet that it makes participants uncomfortable. For example, some interviewees may pipe up with off-topic or tangential points, just for the sake of filling such gaps.</p>
+<ol start="9">
+<li>Interpreting questions</li>
+</ol>
+<p>You ask interpreting questions to ensure that you have understood a participant’s answer correctly or to prompt him&#x2F;her to elaborate. An example of an interpreting question could be this: “Am I right in understanding that you feel that…?”</p>
+<h3 id="Data-gathering"><a href="#Data-gathering" class="headerlink" title="Data gathering"></a>Data gathering</h3><p>To choose the best method, first understand how much is the appopriate amount and kind of data you need for the question you are serving:</p>
+<ul>
+<li>how much data do you need?</li>
+<li>how you are going to analyze the data?</li>
+<li>what depth of data do you need to have access to?</li>
+</ul>
+<h4 id="Types-of-data-their-pros-and-cons"><a href="#Types-of-data-their-pros-and-cons" class="headerlink" title="Types of data, their pros and cons:"></a>Types of data, their pros and cons:</h4><ul>
+<li>photos: easy on privacy and to gather info about surroundings</li>
+<li>notes: easy to analyze; lower quality - write down only what you felt was important at the moment; useful to note surroundings and stuff you can’t get from audio recordings.</li>
+<li>audio recording: may make conversation lower quality and stiff</li>
+<li>video recording: often off-putting and intrusive, so may lower data quality; a lot more data to analyze</li>
+</ul>
+<h3 id="Thematic-analysis"><a href="#Thematic-analysis" class="headerlink" title="Thematic analysis"></a>Thematic analysis</h3><p>A thematic analysis strives to identify patterns of themes in the interview data.</p>
+<p>Here’s an approximate process:</p>
+<ol>
+<li>Familiarization (transcript, first ideas for codes)</li>
+<li>Generating initial codes - brief descriptions of what is said (labels next to quotes according to what is being said and to the purpose of research)</li>
+<li>Searching for themes (grouping codes)</li>
+<li>Reviewing themes (checking if themes are coherent, contained and represent the data)</li>
+<li>Defining and naming themes (to tell a coherent and engaging story of data using themes: what and why it is interesting)</li>
+<li>Producing report (engaging summary of findings preferably with consented visuals, background info about the process and full analysis)</li>
+</ol>
+<blockquote>
+<p>What is important is that the <strong>transcript</strong> retains the information you need, from the verbal account, and in a way which is ‘true’ to its original nature.<br>&#x2F; Braun and Clarke</p>
+</blockquote>
+<blockquote>
+<p>Data within themes should cohere together meaningfully, while there should be clear and identifiable distinctions between themes.<br>&#x2F; Braun and Clarke</p>
+</blockquote>
+<blockquote>
+<p>In naming themes, you “Define the essence that each theme is about.”<br>&#x2F; Braun and Clarke</p>
+</blockquote>
+<p>For an interview, transcribe the audio and “code” its important points and insights until you have cohesive themes and concepts make sense. This is an iterative process and you might need to go through your data more than once.</p>
+<ul>
+<li>coding into themes will help you familiarize yourself with the data</li>
+<li>it is a starting point for a report to write along as you combine the info.</li>
+</ul>
+<p>Grounded theory - theoretical saturation when more information does not provide more insight - you already know all there is to know about the topic and your assumptions are not contradictory both to each other and the data. This is the perfect time to stop a study.</p>
+<h4 id="Pitfalls"><a href="#Pitfalls" class="headerlink" title="Pitfalls"></a>Pitfalls</h4><ul>
+<li>confirmation bias: think you have spotted something early on the data that reinforces your existing assumptions &#x3D;&gt; look for contradictory evidence!</li>
+<li>picking favourites when analyzing data</li>
+<li>overwhemling amount of data might make it hard to start, finish or narrow down. &#x3D;&gt; dive in and do something, make it into manageable chunks.</li>
+<li>good analysis takes longer than data gathering, but for some people get bogged down by analysis</li>
+<li>get someone to talk to, to throw ideas around!</li>
+</ul>
+<hr>
+<h2 id="Contextual-inquiry"><a href="#Contextual-inquiry" class="headerlink" title="Contextual inquiry"></a>Contextual inquiry</h2><p><img src="/images/contextual-inquiry.webp"></p>
+<p>Contextual Inquiries (CI) <strong>mix interviews with observations</strong> and are an excellent way to gain insight into peoples’ work processes, your users’ daily routines, how they use different products, and so on.<br>10-12 participants, session is about 2 hours long. Be prepared that 10-20% might not show up&#x2F;be disappointing.</p>
+<p>It’s an immersive process - dip into it as many of your colleagues as you can!<br>interpret the notes in first person to acknowledge it is about real people doing real things.<br>You - researcher - are the apprentice while you observe the master - participant.</p>
+<blockquote>
+<p>Observation is by far the most important part of contextual inquiry. In fact, that is oftne the most important part of user research.</p>
+</blockquote>
+<p>CI is helpful to make the organization aware of their users and how actually it works.</p>
+<h3 id="Four-main-principles"><a href="#Four-main-principles" class="headerlink" title="Four main principles:"></a>Four main principles:</h3><ul>
+<li>Context (in natural setting, researcher acts as an apprentice)</li>
+<li>Partnership (alternate between observing and discussion)</li>
+<li>Interpretation (make notes that are self sufficient for affinity diagram)</li>
+<li>Focus (casually discussing the topic, not steering away)</li>
+</ul>
+<h3 id="When-to-use"><a href="#When-to-use" class="headerlink" title="When to use?"></a>When to use?</h3><p>when you need to know more about your users and their problem domain</p>
+<ul>
+<li>greenfield (new products): observe users working with current solutions</li>
+<li>brownfield (existing solutions, redesigns): decide what to observe:<ul>
+<li>use of your existing solution</li>
+<li>use of competing solution</li>
+<li>whether to focus on problem areas or the complete process</li>
+</ul>
+</li>
+</ul>
+<h3 id="Who-is-involved"><a href="#Who-is-involved" class="headerlink" title="Who is involved?"></a>Who is involved?</h3><ul>
+<li>driven by UX professionals</li>
+<li>market researchers and recruiters: who and what to observe, arranging visits</li>
+<li>development team members: observers in CI&#x2F;empathy, interpretation and coding, affinity diagramming</li>
+<li>project stakeholders (product owner, sponsors): interpretation and coding, affinity diagramming</li>
+</ul>
+<h3 id="Alternatives"><a href="#Alternatives" class="headerlink" title="Alternatives"></a>Alternatives</h3><p>CI is a high level research - task-level detail is not the focus.<br>For task focus better options could be:</p>
+<ul>
+<li>paper prototyping early in design</li>
+<li>usability studies for existing solutions or later in design</li>
+</ul>
+<p>CI is very qualitative and does not use many participants (often no more than 12)</p>
+<p>For greater confidence of repeatability in results consider adding a “double check”:</p>
+<ul>
+<li>surveys</li>
+<li>analytics</li>
+<li>other quanitative methods</li>
+</ul>
+<p>CI research questions tend to be big:</p>
+<ul>
+<li>What are the tasks and goals in this domain?</li>
+<li>How much variation in how users solve problems?</li>
+<li>What are the high and low points&#x2F;good and bad experiences?</li>
+</ul>
+<h3 id="Practicalities"><a href="#Practicalities" class="headerlink" title="Practicalities"></a>Practicalities</h3><p>The <strong>setting</strong> of CI needs to be naturalistic. For complext problem domains you might need to make several sessions per participant, as the jounrey consists of many parts (for example, online shopping + item delivery + unboxing)</p>
+<h4 id="Time-and-effort"><a href="#Time-and-effort" class="headerlink" title="Time and effort"></a>Time and effort</h4><p><strong>Time</strong> is about 10 person days for smaller study (6 interviews and 6 affinity diagramming participants) and up to 36 person days for bigger one (12 interiews, 12 affinity diagramming participants):</p>
+<ul>
+<li>Preparation takes about 1&#x2F;2 - 2 days, depending on complexity</li>
+<li>Interviews usually take 1.5 - 2 hours per user</li>
+<li>Coding important notes would take 0.5 - 1 per interview</li>
+<li>and 1&#x2F;2-1 hour preparing affinity notes</li>
+<li>Affinity diagramming would take 1 to 2 days per participant</li>
+</ul>
+<h4 id="Consent"><a href="#Consent" class="headerlink" title="Consent"></a>Consent</h4><p>try to get it in writing as otherwise you have to spell out everything they are consenting to on audio&#x2F;video<br>participants can withdraw their consent at any time. If you feel they are doing it during the interview (don’t talk anymore, feel very uncomfortable) it is your professional duty to assume thei are withdrawing their consent.</p>
+<h3 id="Running-a-contextual-inquiry"><a href="#Running-a-contextual-inquiry" class="headerlink" title="Running a contextual inquiry"></a>Running a contextual inquiry</h3><h4 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h4><ul>
+<li>Thank participant for taking part</li>
+<li>Explain process (again) and emphasize there are no wrong answers</li>
+<li>Assure anonymity - you need to know what they actually do, not what they should</li>
+<li>Obtain consent and explain that they may withdraw consent at any time</li>
+<li>Outline the focus of your research</li>
+</ul>
+<h4 id="Session"><a href="#Session" class="headerlink" title="Session"></a>Session</h4><ul>
+<li>Observe and inquire, use a set of “starter” questions just like in semi-structured interviews</li>
+<li>Master-apprentice model</li>
+<li>Confirm notes where necessary<ul>
+<li>Notetaking is important but must not interfere with observation and discussion<ul>
+<li>small laptop with a quite keyboard</li>
+<li>or pen and paper (slower)</li>
+</ul>
+</li>
+<li>You must be able to take notes effetively while observing or speaking (practice!)</li>
+</ul>
+</li>
+<li>Stay in focus - don’t be afraid to redirect</li>
+<li>If you cannot observe some tasks directly, ask participant to walk you through them mentally</li>
+</ul>
+<h4 id="Notes-should"><a href="#Notes-should" class="headerlink" title="Notes should"></a>Notes should</h4><ul>
+<li>be self-explanatory (free-standing)</li>
+<li>focus on a single concept or observation</li>
+<li>identify the participants (anonymously)</li>
+<li>written in first person</li>
+<li>checked with participant if signigicantly reworded</li>
+</ul>
+<blockquote>
+<p>I saw you did this, is this a good description of it?</p>
+</blockquote>
+<blockquote>
+<p>I’ve written that down like this, is it like that?</p>
+</blockquote>
+<blockquote>
+<p>T05-77 Kept ptices of hotel and car options in a paper notebook. It took several weeks to get the best price.<br>&#x2F;Holtzblatt &amp; Beyer</p>
+</blockquote>
+<blockquote>
+<p>1 I use a minimal shopping list. Julie<br>&#x2F; course material</p>
+</blockquote>
+<h4 id="Recordings"><a href="#Recordings" class="headerlink" title="Recordings"></a>Recordings</h4><p>Video:</p>
+<ul>
+<li>not ideal as people do not behave normally while being recorded. It can be intrusive and intimidating.</li>
+<li>Participants may withhold permission</li>
+<li>Difficult to maintain anonymity</li>
+<li>But clips can be extremely persuasive</li>
+</ul>
+<p>Audio:</p>
+<ul>
+<li>generally more effective and less intrusive</li>
+<li>easier to maintain anonymity</li>
+</ul>
+<p>Transcriptions</p>
+<ul>
+<li>possible, but quality and cost can vary dramatically</li>
+<li>machine transriptions are usually trained for a single speaker</li>
+</ul>
+<p>Timestamps</p>
+<ul>
+<li>cool to use on Word to locate notes on a recording.</li>
+</ul>
+<p>Photos</p>
+<ul>
+<li>take photos wherever possible</li>
+<li>participants “in action” anonymously - great images for personas</li>
+<li>use photos in sessions with others</li>
+<li>always asn for consent!</li>
+</ul>
+<p>Artifacts</p>
+<ul>
+<li>things that get used or created in the process</li>
+<li>can be real (paper forms) or virtual</li>
+<li>take screenshots of all artifacts to refer to them</li>
+</ul>
+<h3 id="Close"><a href="#Close" class="headerlink" title="Close"></a>Close</h3><ul>
+<li>Thank participant for involvement and the value of their contribution</li>
+<li>Provide compensations when appropriate</li>
+</ul>
+<h3 id="Coding-and-interpretation"><a href="#Coding-and-interpretation" class="headerlink" title="Coding and interpretation"></a>Coding and interpretation</h3><p>TODO futher reading on coding about Grounded theory and check out a <a target="_blank" rel="noopener" href="https://groundedtheoryreview.com/2010/04/02/the-coding-process-and-its-challenges/">detailed discussion on challenges of coding</a> and also a <a target="_blank" rel="noopener" href="https://www.pinterest.co.uk/pin/149604018847180098/">coding pyramid</a></p>
+<p>interpretation sessions help fit the research and its findings in the wider project.</p>
+<h3 id="Analyzing-results"><a href="#Analyzing-results" class="headerlink" title="Analyzing results"></a>Analyzing results</h3><blockquote>
+<p>We are doing research, the design comes later.</p>
+</blockquote>
+<p>“Modelling is only done when absolutely essential”</p>
+<h3 id="Affinity-diagramming"><a href="#Affinity-diagramming" class="headerlink" title="Affinity diagramming"></a>Affinity diagramming</h3><p>around a thousand cards printed, in a workshop a group of people label and categorize them by key themes.<br>it is good for:</p>
+<ul>
+<li>familiarizing stakeholders with user research</li>
+<li>stimulating design ideas (problems, solutions, motivations)</li>
+</ul>
+<p>colors as category labels:</p>
+<ul>
+<li>yellow&#x2F;white &#x3D; original note (printed)</li>
+<li>blue &#x3D; closely related (say the same concept)</li>
+<li>pink &#x3D; connected topics (may be excluded in smaller projects)</li>
+<li>green &#x3D; summary (more general)</li>
+</ul>
+<p>Most important outcome - increased understanding of your users, their behavious and needs. That can feed into personas, design ideas, low hanging fruits, strengths and weaknesses</p>
+<h3 id="Triangulation"><a href="#Triangulation" class="headerlink" title="Triangulation"></a>Triangulation</h3><p>Used to validate research results. Market research, surveys, usability testing &amp; prototyping can confirm or refute the conclusions.</p>
+<p>Make sure the data from contextual inquiry <strong>makes sense</strong> in terms of information from other sources.</p>
+<hr>
+<h2 id="Direct-observation"><a href="#Direct-observation" class="headerlink" title="Direct observation"></a>Direct observation</h2><p><img src="/images/naturalistic-observation.webp"></p>
+<blockquote>
+<p>The whole idea of doing an observational study is to really get that rich feeling of how people are behaving, interacting. Sometimes, you need to make the situation unnatural to find out what’s natural for people. Your report should be equally rich in the way it’s expressed.</p>
+</blockquote>
+<h3 id="The-W-questions"><a href="#The-W-questions" class="headerlink" title="The W questions"></a>The W questions</h3><h4 id="Why-would-you-do-direct-observation"><a href="#Why-would-you-do-direct-observation" class="headerlink" title="Why would you do direct observation?"></a>Why would you do direct observation?</h4><ul>
+<li>In interviews, people will give you their explicit knowledge (normative behavior)</li>
+<li>In observations, people will give you their tacit knowledge (normal behavior)</li>
+</ul>
+<h4 id="When-you-might-do-it"><a href="#When-you-might-do-it" class="headerlink" title="When you might do it?"></a>When you might do it?</h4><ul>
+<li>before you even start design to get context and see current processes</li>
+<li>at the ideation stage to check if it fits the culture of how stuff is done (technology probes)</li>
+<li>post-design to check does it actually work</li>
+</ul>
+<h4 id="Who-and-how-many-with"><a href="#Who-and-how-many-with" class="headerlink" title="Who and how many with?"></a>Who and how many with?</h4><ul>
+<li>ideally real users, a small group of people</li>
+<li>relatively just a few users but in depth</li>
+<li>general lessons are coming out of your understanding, not out of data (“this is a behavior I expect from users”)</li>
+<li>normally, you and your buddy are the worst people to try things out</li>
+</ul>
+<h4 id="Potential-audiences"><a href="#Potential-audiences" class="headerlink" title="Potential audiences:"></a>Potential audiences:</h4><ul>
+<li>Employees of a client - easy to get them, but must have inherent interest, not be forced</li>
+<li>Client’s clients. Avoid ex-clients of ex-client</li>
+<li>Target audience (surogatory users not ideal, but sometimes neccessary)</li>
+</ul>
+<h4 id="What-they-do"><a href="#What-they-do" class="headerlink" title="What they do?"></a>What they do?</h4><ul>
+<li>as natural as possible: with their own equipment, communcation</li>
+<li>a bigger commitment than a user test, but not that many clients</li>
+</ul>
+<h4 id="Where-they-do-it"><a href="#Where-they-do-it" class="headerlink" title="Where they do it?"></a>Where they do it?</h4><ul>
+<li>in users own environment, their space</li>
+<li>in a lab: similar to user study, but less control (with their own laptops)<br>difference is symbolic and practical - in their environment they feel more empowered and you - humble.</li>
+</ul>
+<h4 id="Managing-trust"><a href="#Managing-trust" class="headerlink" title="Managing trust"></a>Managing trust</h4><ul>
+<li>be really open of what and how you collect and do with the info</li>
+<li>give them some control (allow to edit, redact)</li>
+<li>be clear of what are your connections to authority</li>
+<li>figure out what you are going to do in case of commercial sensitivity</li>
+</ul>
+<h3 id="During-observation"><a href="#During-observation" class="headerlink" title="During observation"></a>During observation</h3><p>Just like in sports, if you run, you don’t want to think about making steps. Observation is better as a <em>fly on the wall</em> than actively interacting.</p>
+<p>You might like to make inverventions and disrupt the norm purposefully to get a chance to see what is happening or how they might interact with a technology probes.</p>
+<h4 id="What-to-observe"><a href="#What-to-observe" class="headerlink" title="What to observe:"></a>What to observe:</h4><ul>
+<li>Behavior - what they do</li>
+<li>Words - what they say (especially to each other)</li>
+<li>Faces - what they feel, where they look</li>
+<li>Environment - where they are</li>
+<li>Artifacts - what is used (content, location, disposition)</li>
+</ul>
+<p>You aim is to get to the point you <strong>feel</strong> them and are become an advocate of the user as you understand his point of view.</p>
+<h3 id="Analyzing-results-1"><a href="#Analyzing-results-1" class="headerlink" title="Analyzing results"></a>Analyzing results</h3><blockquote>
+<p>You will always bring your own beliefs and biases to a research. What you can do is be aware of it and try to minimize the effect.</p>
+</blockquote>
+<h4 id="Estrangement"><a href="#Estrangement" class="headerlink" title="Estrangement"></a>Estrangement</h4><p>We are bad at noticing the obvious. To do it - make the normal strange!</p>
+<ul>
+<li>check out a comedian’s speech about the topic as they are really good at noticing small things and laughing about them</li>
+<li>analyst as a stranger (who does not know much about the topic) - note the strange things before they become normal</li>
+</ul>
+<h4 id="Appropriation"><a href="#Appropriation" class="headerlink" title="Appropriation"></a>Appropriation</h4><p>Using things in ways in which they are <strong>your use</strong> - work-arounds to get the job done.</p>
+<blockquote>
+<p>If you don’t understand the workarounds, you can’t design for them.</p>
+</blockquote>
+<h4 id="Distance"><a href="#Distance" class="headerlink" title="Distance"></a>Distance</h4><p>Biggest challenge in observation  is the huge amounts of data you get. So, you do as with all the other social studies - do a thematic analysis:</p>
+<ul>
+<li>identify key concepts, patterns and classes of behavior</li>
+<li>look for the “aha!” moments that have the potential to change your point of view</li>
+<li>don’t depend too much on theories and models as they narrow your vision</li>
+</ul>
+<h5 id="Dialectic-re-coding"><a href="#Dialectic-re-coding" class="headerlink" title="Dialectic (re)coding:"></a>Dialectic (re)coding:</h5><p>When you have summarized and made a model of the world, try to look at the outliers - what does not fit in?<br>There are two types of outliers:</p>
+<ul>
+<li>mind the gap: missing categories</li>
+<li><code>just a</code>: refining simplistic categories</li>
+</ul>
+<p>[washing a car]<br>“It’s just leisure activity”</p>
+<p>Is it really? Do you get the eerie feeling, tension? Try giving these a name.</p>
+<h4 id="Engagement"><a href="#Engagement" class="headerlink" title="Engagement"></a>Engagement</h4><p>Another way is to DIY, enculturate yourself. But don’t forget yuo don’t know everything and take things back to the participants., referably after the experience is over.</p>
+<hr>
+<h2 id="Communicating-results"><a href="#Communicating-results" class="headerlink" title="Communicating results"></a>Communicating results</h2><p>The goal of user research is to get the team to the same level of understanding and empathy for the target audience as you do.</p>
+<p>When you’re sharing results from qualitative user research efforts, you’re most likely focusing on creating an understanding for the lives people lead, the tasks that they need to fulfill, and the interactions they must effect so as to achieve what they need or want to do.</p>
+<blockquote>
+<p>A list is not immersive enough to trigger any type of empathy.</p>
+</blockquote>
+<h3 id="Potential-methods"><a href="#Potential-methods" class="headerlink" title="Potential methods"></a>Potential methods</h3><p>Affinity diagram: group most influential post-its by main themes and present that.<br><img src="/images/affinity-diagram.webp"></p>
+<p>Empathy map: group post-its by “say, do think, feel”<br><img src="/images/empathy-map.webp"></p>
+<p>User Journey map: empathy map over a period of time<br><img src="/images/user-journey-map.webp"></p>
+<p>Personas<br><img src="/images/persona.webp"></p>
+<h4 id="Personas"><a href="#Personas" class="headerlink" title="Personas"></a>Personas</h4><p>There are four perspectives that your personas can take to ensure that they add the most value to your design project:</p>
+<ol>
+<li>goal-directed personas</li>
+<li>role-based personas</li>
+<li>engaging personas</li>
+<li>fictional personas</li>
+</ol>
+<p>There are six common pieces of information that make up a (fictional) persona:</p>
+<ul>
+<li>Name, age, gender, and an image of the persona, preferably including some context in the background</li>
+<li>A tag line, indicating what the persona does or considers relevant in his or her life</li>
+<li>The experience and relevant skills the persona has in the area of the product or service you will be developing</li>
+<li>Some context to indicate how he&#x2F;she would interact with your product or service (e.g., the voluntariness of use, frequency of use, and preferred device)</li>
+<li>Any goals, attitudes, and concerns he&#x2F;she would have when using your product or service</li>
+<li>Quotes or a brief scenario, that indicate the persona’s attitude toward the product or service you’re designing. If the persona already uses an existing product or service to meet his or her needs, you might describe the use of that here.</li>
+</ul>
+<blockquote>
+<p>Without the research data, nobody in real life will use your designs; without fictional details, nobody in your design team will remember whom you’re designing for.</p>
+</blockquote>
+<hr>
+<h2 id="Further-reading"><a href="#Further-reading" class="headerlink" title="Further reading"></a>Further reading</h2><p>Futher reading on coding about Grounded theory and check out a <a target="_blank" rel="noopener" href="https://groundedtheoryreview.com/2010/04/02/the-coding-process-and-its-challenges/">detailed discussion on challenges of coding</a> and also a <a target="_blank" rel="noopener" href="https://www.pinterest.co.uk/pin/149604018847180098/">coding pyramid</a></p>
+<hr>
+<h2 id="Course-materials-pdf"><a href="#Course-materials-pdf" class="headerlink" title="Course materials (pdf)"></a>Course materials (pdf)</h2><p><a href="/docs/good-questions-for-stakeholder-interviews.pdf">Good questions for stakeholder interviews</a></p>
+<p><a href="/docs/research-plan-checklist.pdf">Research Plan Checklist</a></p>
+<p><a href="/docs/usability-test-metric.pdf">Usability Test Metrics</a><br><a href="/docs/preparing-for-a-usability-test.pdf">Preparing for a Usability Test</a><br><a href="/docs/tips-for-moderating-usability-tests-template.pdf">Tips for Moderating Usability Tests</a><br><a href="/docs/how-to-ensure-rigor-in-usability-tests.pdf">How To Ensure Rigor in Usability Tests</a><br><a href="/docs/advice-for-writing-usability-test-reports.pdf">Advice for Writing Usability Test Reports</a></p>
+<p><a href="/docs/how-to-structure-a-user-interview.pdf">How to Structure a User Interview</a><br><a href="/docs/concrete-examples-and-critical-incidents.pdf">Concrete Examples and Critical Incidents</a><br><a href="/docs/how-to-ask-open-ended-questions.pdf">How to Ask Open-Ended Questions</a><br><a href="/docs/semi-structured-interviews-different-types-of-questions.pdf">Semi-Structured Interviews – Different Types of Questions</a></p>
+<p><a href="/docs/principles-of-contextual-inquiry.pdf">Principles of Contextual Inquiry</a><br><a href="/docs/steps-in-a-contextual-inquiry-session.pdf">Steps in a Contextual Inquiry Session</a><br><a href="/docs/tips-and-tricks-for-running-a-contextual-inquiry-session.pdf">Tips and Tricks for Running a Contextual Inquiry Session</a></p>
+<p><a href="/docs/what-to-look-out-for-when-conducting-observations.pdf">What to look out for when conducting observations</a><br><a href="/docs/practicalities-and-difficulties-of-conducting-observations.pdf">Practicalities and Difficulties of Conducting Observations</a></p>
+<p><a href="/docs/how-to-carry-out-a-thematic-analysis.pdf">How to Carry out a Thematic Analysis - Steps in a Thematic Analysis</a><br><a href="/docs/how-to-carry-out-follow-up-interviews.pdf">How to Carry out Follow-up Interviews</a></p>
+<p><a href="/docs/affinity-diagrams.pdf">Affinity Diagrams</a><br><a href="/docs/empathy-map.pdf">Empathy Map</a></p>
+<h3 id="Examples"><a href="#Examples" class="headerlink" title="Examples"></a>Examples</h3><p><a href="/docs/research-project-plan-example.pdf">Research Project Plan Example</a></p>
+<p><a href="/docs/sky-team-usability-test-plan.pdf">Usability Test Plan Example</a><br><a href="/docs/instructions-to-usability-test-participants.pdf">Instructions to the Test Participant</a><br><a href="/docs/pre-test-questionnaire-skyteam.pdf">Pre-Test Questionnaire</a><br><a href="/docs/post-test-questionnaire-skyteam.pdf">Post-Test Questionnaire</a><br><a href="/docs/skyteam-usability-test-report.pdf">Usability Test Report</a></p>
+<p>(Semi structured) <a href="/docs/interview-guide.pdf">Interview Guide</a></p>
+<p><a href="/docs/persona-template.pdf">Persona Template</a><br><a href="/docs/customer-journey-map.pdf">Customer Journey Template</a></p>
+
+  </div>
+</article>
+
+
+
+        
+          <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Sākums</a></li>
+         
+          <li><a href="/archives/">Raksti</a></li>
+         
+          <li><a href="/about/">Par</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Research-plan-theory"><span class="toc-number">1.</span> <span class="toc-text">Research plan theory</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Usability-studies"><span class="toc-number">2.</span> <span class="toc-text">Usability studies</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#what-is-measured"><span class="toc-number">2.1.</span> <span class="toc-text">what is measured</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Usability-issues"><span class="toc-number">2.2.</span> <span class="toc-text">Usability issues:</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#planning-usability-test"><span class="toc-number">2.3.</span> <span class="toc-text">planning usability test</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Sample-sizes"><span class="toc-number">2.3.1.</span> <span class="toc-text">Sample sizes</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#User-test"><span class="toc-number">3.</span> <span class="toc-text">User test</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Pre-test-optional"><span class="toc-number">3.1.</span> <span class="toc-text">Pre-test (optional)</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#The-Test-listening-mode"><span class="toc-number">3.2.</span> <span class="toc-text">The Test - listening mode</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Post-test"><span class="toc-number">3.3.</span> <span class="toc-text">Post test</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Dry-runs-test-the-test"><span class="toc-number">3.4.</span> <span class="toc-text">Dry runs - test the test</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Test-report"><span class="toc-number">3.5.</span> <span class="toc-text">Test report</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#User-interviews"><span class="toc-number">4.</span> <span class="toc-text">User interviews</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Pros-and-cons-of-semi-strucutred-interviews"><span class="toc-number">4.1.</span> <span class="toc-text">Pros and cons of semi-strucutred interviews</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#When-to-conduct-user-interviews"><span class="toc-number">4.2.</span> <span class="toc-text">When to conduct user interviews</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Questions"><span class="toc-number">4.3.</span> <span class="toc-text">Questions</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Follow-up-questions"><span class="toc-number">4.3.1.</span> <span class="toc-text">Follow-up questions</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Data-gathering"><span class="toc-number">4.4.</span> <span class="toc-text">Data gathering</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Types-of-data-their-pros-and-cons"><span class="toc-number">4.4.1.</span> <span class="toc-text">Types of data, their pros and cons:</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Thematic-analysis"><span class="toc-number">4.5.</span> <span class="toc-text">Thematic analysis</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Pitfalls"><span class="toc-number">4.5.1.</span> <span class="toc-text">Pitfalls</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Contextual-inquiry"><span class="toc-number">5.</span> <span class="toc-text">Contextual inquiry</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Four-main-principles"><span class="toc-number">5.1.</span> <span class="toc-text">Four main principles:</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#When-to-use"><span class="toc-number">5.2.</span> <span class="toc-text">When to use?</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Who-is-involved"><span class="toc-number">5.3.</span> <span class="toc-text">Who is involved?</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Alternatives"><span class="toc-number">5.4.</span> <span class="toc-text">Alternatives</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Practicalities"><span class="toc-number">5.5.</span> <span class="toc-text">Practicalities</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Time-and-effort"><span class="toc-number">5.5.1.</span> <span class="toc-text">Time and effort</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Consent"><span class="toc-number">5.5.2.</span> <span class="toc-text">Consent</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Running-a-contextual-inquiry"><span class="toc-number">5.6.</span> <span class="toc-text">Running a contextual inquiry</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Introduction"><span class="toc-number">5.6.1.</span> <span class="toc-text">Introduction</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Session"><span class="toc-number">5.6.2.</span> <span class="toc-text">Session</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Notes-should"><span class="toc-number">5.6.3.</span> <span class="toc-text">Notes should</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Recordings"><span class="toc-number">5.6.4.</span> <span class="toc-text">Recordings</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Close"><span class="toc-number">5.7.</span> <span class="toc-text">Close</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Coding-and-interpretation"><span class="toc-number">5.8.</span> <span class="toc-text">Coding and interpretation</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Analyzing-results"><span class="toc-number">5.9.</span> <span class="toc-text">Analyzing results</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Affinity-diagramming"><span class="toc-number">5.10.</span> <span class="toc-text">Affinity diagramming</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Triangulation"><span class="toc-number">5.11.</span> <span class="toc-text">Triangulation</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Direct-observation"><span class="toc-number">6.</span> <span class="toc-text">Direct observation</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#The-W-questions"><span class="toc-number">6.1.</span> <span class="toc-text">The W questions</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Why-would-you-do-direct-observation"><span class="toc-number">6.1.1.</span> <span class="toc-text">Why would you do direct observation?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#When-you-might-do-it"><span class="toc-number">6.1.2.</span> <span class="toc-text">When you might do it?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Who-and-how-many-with"><span class="toc-number">6.1.3.</span> <span class="toc-text">Who and how many with?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Potential-audiences"><span class="toc-number">6.1.4.</span> <span class="toc-text">Potential audiences:</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#What-they-do"><span class="toc-number">6.1.5.</span> <span class="toc-text">What they do?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Where-they-do-it"><span class="toc-number">6.1.6.</span> <span class="toc-text">Where they do it?</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Managing-trust"><span class="toc-number">6.1.7.</span> <span class="toc-text">Managing trust</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#During-observation"><span class="toc-number">6.2.</span> <span class="toc-text">During observation</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#What-to-observe"><span class="toc-number">6.2.1.</span> <span class="toc-text">What to observe:</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Analyzing-results-1"><span class="toc-number">6.3.</span> <span class="toc-text">Analyzing results</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Estrangement"><span class="toc-number">6.3.1.</span> <span class="toc-text">Estrangement</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Appropriation"><span class="toc-number">6.3.2.</span> <span class="toc-text">Appropriation</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Distance"><span class="toc-number">6.3.3.</span> <span class="toc-text">Distance</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#Dialectic-re-coding"><span class="toc-number">6.3.3.1.</span> <span class="toc-text">Dialectic (re)coding:</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Engagement"><span class="toc-number">6.3.4.</span> <span class="toc-text">Engagement</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Communicating-results"><span class="toc-number">7.</span> <span class="toc-text">Communicating results</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Potential-methods"><span class="toc-number">7.1.</span> <span class="toc-text">Potential methods</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Personas"><span class="toc-number">7.1.1.</span> <span class="toc-text">Personas</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Further-reading"><span class="toc-number">8.</span> <span class="toc-text">Further reading</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Course-materials-pdf"><span class="toc-number">9.</span> <span class="toc-text">Course materials (pdf)</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Examples"><span class="toc-number">9.1.</span> <span class="toc-text">Examples</span></a></li></ol></li></ol>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      <ul>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://blog.bruna.lv/ixdf-uxresearch/"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://https://blog.bruna.lv/ixdf-uxresearch/"><i class="fas fa-globe fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://blog.bruna.lv/ixdf-uxresearch/&text=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://blog.bruna.lv/ixdf-uxresearch/&is_video=false&description=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-pinterest fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=User Research – Methods and Best Practices course by IxDF&body=Check out this article: https://blog.bruna.lv/ixdf-uxresearch/"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://blog.bruna.lv/ixdf-uxresearch/&title=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-digg fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://blog.bruna.lv/ixdf-uxresearch/&name=User Research – Methods and Best Practices course by IxDF&description="><i class="fab fa-tumblr fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=https://blog.bruna.lv/ixdf-uxresearch/&t=User Research – Methods and Best Practices course by IxDF"><i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;"><i class="fas fa-bars fa-lg" aria-hidden="true"></i> Izvēlne</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;"><i class="fas fa-list fa-lg" aria-hidden="true"></i> Satura rādītājs</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;"><i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> Dalīties</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Uz augšu</a>
+    </div>
+
+  </div>
+</div>
+
+        
+        <footer id="footer">
+  <div class="footer-left">
+    Autortiesības &copy;
+    
+    
+    2023
+    Rota Kalniņa
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+        <!--
+       --><li><a href="/">Sākums</a></li><!--
+     --><!--
+       --><li><a href="/archives/">Raksti</a></li><!--
+     --><!--
+       --><li><a href="/about/">Par</a></li><!--
+     -->
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+    </div>
+    <!-- styles -->
+
+
+
+  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'"/>
+
+
+    <!-- jquery -->
+ 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script> 
+
+
+
+
+<!-- clipboard -->
+
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.7/clipboard.min.js" crossorigin="anonymous"></script> 
+  
+  <script type="text/javascript">
+  $(function() {
+    // copy-btn HTML
+    var btn = "<span class=\"btn-copy tooltipped tooltipped-sw\" aria-label=\"Nokopē!\">";
+    btn += '<i class="far fa-clone"></i>';
+    btn += '</span>'; 
+    // mount it!
+    $(".highlight table").before(btn);
+    var clip = new ClipboardJS('.btn-copy', {
+      text: function(trigger) {
+        return Array.from(trigger.nextElementSibling.querySelectorAll('.code')).reduce((str,it)=>str+it.innerText+'\n','')
+      }
+    });
+    clip.on('success', function(e) {
+      e.trigger.setAttribute('aria-label', "Nokopēts!");
+      e.clearSelection();
+    })
+  })
+  </script>
+
+
+<script src="/js/main.js"></script>
+
+<!-- search -->
+
+<!-- Google Analytics -->
+
+<!-- Baidu Analytics -->
+
+<!-- Cloudflare Analytics -->
+
+<!-- Umami Analytics -->
+
+<!-- Goatcounter Analytics -->
+
+  <script data-goatcounter="https://bruna.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
+  
+<!-- Disqus Comments -->
+
+<!-- utterances Comments -->
+
+</body>
+</html>
