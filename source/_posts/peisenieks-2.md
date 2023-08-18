@@ -143,9 +143,10 @@ Info datu formā
 - Google trends
 - Exploding topics: newsletter reizi nedēļā ar pašreizējām pieaugošām tendencēm
 
-#### Ko es zinu
-[ETF database](https://etfdb.com/themes/european-etfs/)
-[justETF](https://www.justetf.com/en/how-to/invest-in-europe.html)
+#### ETF datubāzes
+- [ETF database](https://etfdb.com/themes/european-etfs/)
+- [justETF](https://www.justetf.com/en/how-to/invest-in-europe.html)
+- [ssga](https://www.ssga.com/us/en/intermediary/etfs)
 
 ### Sociālie tīkli
 

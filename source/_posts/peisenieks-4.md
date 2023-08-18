@@ -4,6 +4,8 @@ date: 2023-07-22 09:08:58
 tags: [finanses,kursi]
 ---
 
+> Reizēm labākais brīdis kurā ieguldīt ir, kad uzņēmums no ļoti draņķīgas situācijas nonāk mazāk sliktā situācijā.
+
 
 ## Finanšu pārskati
 
@@ -32,6 +34,7 @@ Mācīties vairāk var [investopedia.com](https://www.investopedia.com/)
 - ir iespējas manipulēt ar depr un amortizāciju
 
 ### Naudas plūsmas pārskats
+`Cash flow statement`
 
 - kur nauda ienākusi, kur aizgājusi?
 - apkopojums par laika periodu (ceturksnis, pusgads, utml)
@@ -112,6 +115,8 @@ Pašam tērēt laiku rēķinot pamatlielumus ir diezgan laika izšķiešana
 
 `tirgus kapitalizācija = akciju skaits*akciju cena`
 
+> nepelnošām kompānijām pievērstu uzmanību uzņēmuma pieauguma tendencēm vai citiem P/... rādītājiem.
+
 
 ### P/CF: Price to cashflow
 
@@ -119,14 +124,14 @@ Cena pret naudas plūsmu
 nav tik populārs rādītājs
 alternatīvs rādītājs, ko varētu izmantot P/E vietā
 
-`P/CF = akcijas cena/naudas plūsma uz vienu 
+`P/CF = akcijas cena/naudas plūsma uz vienu akciju`
 
 ### P/S: Price to sales
 
 - lai salīdzinātu uzņēmumus nozarē
 - vai novērtētu uzņēmumus, kuriem peļņas nav vispār (augošie)
 
-`P/S = 
+`P/S = p`
 
 
 ### P/B: price to book value
