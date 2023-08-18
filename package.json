@@ -6,7 +6,7 @@
     "start": "yarn build && yarn launch",
     "build": "hexo generate",
     "launch": "hexo server",
-    "deploy": "hexo clean && hexo generate && hexo deploy",
+    "deploy": "rm -rf public && hexo clean && hexo generate && hexo deploy",
     "clean": "hexo clean"
   },
   "hexo": {
