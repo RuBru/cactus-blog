@@ -9,6 +9,7 @@ After a lovely short meditation session in EAG London conference, I joined a 4 w
 Course had 4 in-group sessions in Wednesday evenings with homework in-between.
 
 > Wisdom and compassion are the 2 wings of a bird to fly. You need both to fly.
+![eagle of wisdom and compassion](/images/eagle.png)
 
 
 ### What did I take from this course?
