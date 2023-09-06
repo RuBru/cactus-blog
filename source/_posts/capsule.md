@@ -1,7 +1,7 @@
 ---
 title: Kapsulas garderobe
 date: 2022-12-03 15:11:01
-tags: [dizains]
+tags: [dizains,lifestyle]
 ---
 
 Ir pagājis gads un gandrīz 2 mēneši kopš ar nodomu pieķēros skapim.
