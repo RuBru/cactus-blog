@@ -198,3 +198,11 @@ Shorter mindfulness meditations:
 - [Thoughts in suitcases (mp3)](/audio/thoughts-in-suitcases.mp3) (12 minutes 16 seconds)
 
 ![EA mindfulness course cover](/audio/cover.png)
+
+### Retreats
+
+Best in class retreats in Europe:
+- [Plum Village](https://plumvillage.org/retreats/retreats-calendar#filter=.region-eu)
+- [Gaia house](https://gaiahouse.co.uk)
+
+Go for the teachers that resonate with you and check tehm before!
