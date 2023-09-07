@@ -12,7 +12,25 @@ Izpētei un lēmumu pieņemšanai veltīju 1 nakti.
 
 ## Manas krāsas
 
-### Sākotnējā versija 2021. gadā
+## 2023. gada versija
+
+![](/images/capsule-colors-2023.png)
+
+Kopējo paleti ir realitātē ir papildinājusi rozīgā Plum krāsa - skaisti vēsīga un tumša, bet spilgta krāsa, jo Nicā nopirku tāda toņa bikses, kas ļoti labi iet pie visa klāt.
+
+No paletes izņēmu melno un balto, jo realitātē tos izmantoju kā papildinošus rakstus: punktains, svītrains utml. Lieki aizņem vietu.
+
+### 2022. gada versija
+
+Krāsas, kas reāli ir manā skapī 2022. gada decembrī:
+
+![](/images/capsule-colors-2022.png)
+
+Sākotnējās krāsas esmu trāpījusi labi, jo arī šajā sezonā ir palikušas gandrīz visas iepriekšējās krāsas.
+
+Klāt ir nākušas divas jaunas - nude pink (aka Redwood) un mālu zaļā (aka Morning Blue). Šīs abas krāsas man ir ļoti nozīmīga garderobes sastāvdaļa, jo katrā no tām ir vismaz viens ļoti bieži izmantots apģērba gabals un tās labi saskan un atsvaidzina pārējo paleti, iedodot vēsākus toņus ar ko spēlēties.
+
+### 2021. gada versija
 
 Krāsas, ko izvēlējos 2021. gada oktobrī:
 
@@ -20,17 +38,7 @@ Krāsas, ko izvēlējos 2021. gada oktobrī:
 
 Tās joprojām ir ~ aktuālas un pie tām aptuveni turos, jo tās izvēlējos, ņemot par pamatu savus foršākos un spilgtākos apģērba gabalus. Tie joprojām ir manā skapī un labi kalpo.
 
-### Atjaunotās krāsas 2022. gadā
-
-Krāsas, kas reāli ir manā skapī 2022. gada decembrī:
-
-![](/images/capsule-colors-2022.png)
-
-Ar krāsām esmu trāpījusi labi, jo arī šajā sezonā ir palikušas gandrīz visas iepriekšējās krāsas. Izmetu tikai tumši brūno, jo neredzu jēgu pelēkās krāsas uzskaitīt paletē. Tās ir manā garderobē, bet noteikti nav dominantas. 
-
-Klāt ir nākušas divas jaunas - nude pink (aka Redwood) un mālu zaļā (aka Morning Blue). Šīs abas krāsas man ir ļoti nozīmīga garderobes sastāvdaļa, jo katrā no tām ir vismaz viens ļoti bieži izmantots apģērba gabals un tās labi saskan un atsvaidzina pārējo paleti, iedodot vēsākus toņus ar ko spēlēties.
-
-## Secinājumi pēc gada ar pārdomātu paleti
+### Secinājumi pēc gada ar pārdomātu paleti
 
 - man ļoti patīk audumi ar sīkiem, īpaši melnbaltiem, rakstiem (pumpas, līnijas, utml)
 - esmu atklājusi, ka garroku pogu krekli mēdz būt ērta un laba paskata alternatīva jakām
@@ -40,13 +48,20 @@ Klāt ir nākušas divas jaunas - nude pink (aka Redwood) un mālu zaļā (aka M
 - jūtos priecīga, kad varu novalkāt drēbes līdz galam un uzpildīt savu spilvenu
 - spilgti sarkana krāsa ir *awesome*!
 
+## Stila vārdi
+
+- Functional/Comfortable from high quality, natural materials
+- Funky/Quirky worn frivolously/undone
+- Preppy/Classic with simple patterns, balanced proportions and color/pattern saturation
+
 ## Iepirkšanās paradumi
 
-- iepērkos pārsvarā second-hand, Otrā Elpa un Andele Mandele ir mani labākie draugi.
+- iepērkos pārsvarā second-hand, Otrā Elpa ir mani labākie draugi.
 - tagad, kad man ir laba bāze un esmu apmierināta ar savu skapi, turpmāk papildināšu skapi tikai ar dabīga materiāla un augstas kvalitātes lietām, kuras mani ļoti uzrunā
 - vēlos ieviest ieradumu pirkt tikai 1 (labu) lietu sezonā/gadā.
 - gribu vairāk košas krāsas, it īpaši drēbēm, ko vilkt uz ielas
 - man vajag piebremzēt ar skapja uzpildi - es nevaru to visu novalkāt.
+- Andele Mandele ir baigais hit or miss - labāk ir no turienes drēbes nepirkt - kopsummā sanāk dārgi un netrāpīgi. Var pirkt lietas tikai ne uz izmēra.
 - laiks apģērbt Kalvi!
 
 ## Konteksts - Ivy

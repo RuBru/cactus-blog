@@ -32,7 +32,8 @@ Vakarā:
 2. uzlikt ļoti vieglu sejas krēmu (Duo+, [Aveeno oat gel](https://www.lookfantastic.com/aveeno-face-calm-and-restore-oat-gel-moisturiser-50ml/13434912.html)) vai serumu, jo būtībā tas ir tas pats - manai sejai patīkama plāna kārtiņa, lai ūdens tik ātri neaiziet no ādas.
 
 Papildus:
-1-2 reizes nedēļā vakarā pirms sejas krēma uzlikt retinolu.
+- 1-2 reizes nedēļā vakarā pirms sejas krēma uzlikt retinolu.
+- ziemā likt vazelīnu uz lūpām, lai tās nesprēgā sausā gaisa dēļ.
 
 ---
 
