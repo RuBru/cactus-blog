@@ -51,7 +51,7 @@ Tās joprojām ir ~ aktuālas un pie tām aptuveni turos, jo tās izvēlējos, �
 ## Stila vārdi
 
 - Functional/Comfortable from high quality, natural materials
-- Funky/Quirky worn frivolously/undone
+- Funky/Quirky/Eccentric worn frivolously/undone
 - Preppy/Classic/Vintage/Traditional with simple patterns, high waist, balanced proportions and color/pattern saturation
 
 Alternatīva: warm, quirky, functional

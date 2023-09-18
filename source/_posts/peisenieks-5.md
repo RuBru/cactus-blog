@@ -1,315 +1,121 @@
 ---
-title: Akciju kurss - investīciju stratēģiju portfelis
+title: Uzņēmuma pamatanalīze, Peisenieka akciju kurss (5)
 date: 2023-08-05 09:09:39
 tags: [finanses,kursi]
 ---
 
-## Investīciju virzieni
+Pamatanalīze ir veids, kā vispārīgi iepazīties ar uzņēmumu un tā nozari. Esi informēts par to, kur investē.
 
-> jo mazāk laika tērē, jo mazāks ienesīgums
-> /Peisenieks
+Pamatanalīzes vienkāršotā versijā vērts izpētīt:
+- uzņēmuma profilu
+- pārdošanas kanālus
+- konkurence
+- jutīgumu pret biznesa ciklu
+- stiprās un vājās puses
 
-Svarīgākais jautājums: Cik daudz laika esmu gatavs tērēt?
+## Apple piemērs
 
-Kāds ir mans ienesīguma mērķis?
-Ja apmierina tirgus viedjais ~8% - pasīvā ieguldīšana
-Ja grib vairāk un gribas diskutēt - aktīvā ieguldīšana
+Izvēle pētīt Apple veikta ar "bottom-up" piegājienu - zinu, ka interesē Apple akcijas investīcijām. (Top-down būtu interese par nozari un tad meklēt piemērotu uzņēmumu.)
 
-### Pasīvās investīcijas
+### Uzņēmuma profils
 
-- Iegulda ETF
-- paļaujas ka vēsture rīmējas
-- 1 vai vārāku indeksu fondu atlase
-- nav vēlme pārspēt tirgu
-- nevēlas tērēt daudz laika
+- nozare
+- produktu un pakalpojumu klāsts
 
-### Aktīvās investīcijas
+![Uzņēmuma profils](/images/uznemuma_profils.png)
 
-- investīcija individuālās akcijās
-- vēlme iegūt savādāku rezultātu kā tirgus
-- tērē daudz laika
-- 
+### Pārdošanas kanāli
 
-## Investīciju stratēģijas
+![Pārdošanas kanāli](/images/pardosanas_kanali.png)
 
-### Dividenžu akcijas
+### Konkurence
 
-- Mazāk svārstīgs ieguldījums
-- reāls ienākumu avots
-- parasti tās izmaksā nobriedušas kompānijas ar salīdzinoši lēnu izaugsmi
-- Rietumos dividenžu ieguldījums ir normāla investīcija, lai nodrošinātu ienākumus vecumdienās
-- var kalpot kā alternatīvs ienākumu avots
+![Konkurence](/images/konkurence.png)
 
-`1 milj portfelis ar 4% dividendēm iegūst 40k pirms nodokļiem ik gadu`
+### Jūtīgums pret biznesa ciklu
 
-Dividenžu ienesīgums
-`Dividenžu ienesīgums = iepriekšējo 12 mēn izmaksāto dividenžu summa / akcijas cena`
+![Jūtīgums pret bizensa ciklu](/images/cikliskums.png)
 
-30-50% dividenžu izmaksas rādītājs tiek uzskatīts par ilgtspēju
->50% var būt problemātisks
+### Stiprās un vājās puses
 
-#### Kur var guldīt lai gūtu dividendes?
-- dividenžu aristokrāti
-    - uzņēmumi, kuri vismaz 25g izmaksājuši un palielinājuši dividendes
-    - - iekļauti S&P500
-    - - Ir pietiekami aktīvi tirgoti
-- sektori ar augstāku dividenžu ienesīgumu: enerģija un sabiedrisko pakalpojumu sniedzēji; IT daudz zemāki
-- REIT
-  - vismaz 75% ieguldīti nekustamajā īpašumā, naudas līdzekļos vai ASV parādzīmēs
-  - 75% no ienākumiem ir no minētajime instrumentiem
-  - vismaz 90% ienākumu tiek izmaksāti dividendēs
-  - Baltijā arī divi ir: eften, un vēl viens (caur Swedbank)
-- Dividenžu uzņēmumi Baltijā: DelfinGroup dod 9% gadā
+#### Stiprās puses
 
-### Izaugsmes akcijas
+- Vadošs spēlētājs visos segmentos, kur Apple strādā
+- Uz dizainu un lietotāja pieredzi orientēti pakalpojumi
+- "Ievelkoša" ekosistēma
+- Stilīgs produkts, kurš apliecina statusu un turīgumu
 
-- Izaugsmes gaidas nākotnē
-- Investori parasti ir gatavi maksāt vairāk par potenciālu nekā tirgus vidējos valuācijas rādītājus
-- tech, pakalpojumi sektori
-- Lielākais risks = lēnāka izaugsme nekā sagaidīts
+#### Vājās puses
 
-### Vērtības akcijas
-*value investing*
+- Augstas cenas produkti
+- Ierobežots skaits cilvēku pasaulē var kļūt par Apple produktu lietotājiem augstās cenas dēļ
+- Nereti invoācijās atpaliek no konkurentiem
+- Trūkst jaunu produktu, kas būtu nākotnes vilcējspēks
 
-Ieguldīšanas tēze - valuācijas rādītājiem ilgtermiņā ir tendence atrgiezties pie vidējiem rādītājiem
-Galvenais uzdevums = atrast akcijas, kas ir relatīvi lētas
-- nepievilcīgas nozare
-- īstermiņa problēmas sektorā/nozarē
-- pārejošas problēmas uzņēmumā
-- lielākais risks - investora kļūdaina interpretācija kāpēc akcija ir lēta. Tā var būt lēta objektīvu iemeslu dēļ, kurus investors ne līdz galam saprot.
+### Secinājumi
 
-
-Ir 3 vērtību akciju investēšanas apakšveidi:
-1. zems P/E
-2. Contrarian (pret straumi): ņem visu, no kā citi bēg
-3. Augsts dividenžu ienesīgums
-
-
-Piemēri:
-- ogļu uzņēmumi super nepievilcīgi, jo anti-zaļi, bet ļoti nepieciešams resurss šobrīd.
-- tūrisma uzņēmumu sezonalitāte
-
-![](/images/vertibas-investesana.png)
-
-![](/images/3-jautajumi.png)
-
-
-### Pasīvā ieguldīšana
-
-fonds, kurš seko konkrētam indeksam:
-- Indeksu fondi = tracidionālie principi, izmanto pensiju pārvaldnieki, parastajiem iedzīvotājiem nav pa ceļam
-- ETF = biržā tirgotie fondi
-
-
-
-> Nav 100% pasīva ieguldīšana, tā ir gradācija
-
-Vispasīvākais variants = ieguldīt pasaules ETF
-
-- pasīvā ieguldīšana var būt zemu izmaksu ieguldīšanas veids
-- lielākajiem un populārākajiem ETF kopējo izmaksu rādītājs var būt pat tikai 0.05% gadā
-  - agrāk tipiskam fondam komisija bija 1.5% gadā
-  - jo specifiskāka stratēģija indeksam, jo augstāka komisija
-- identiskiem fondiem ar vienīgo atšķirību ar ESG filtru, mēdz būt būtiskas atšķirības komisijās
-- ETF izmaksas ir tikai viena sadaļa no komisijām, papildus vēl ir brokeru komisijas: Latvijas bankās var būt dārgi, globālos brokeros var būt lēti (IBKR = daži eiro)
-- izvēlēties tādu, kur ir lieli līdzekļi iekšā. mazie var ilgtermiņā arī nepastāvēt.
-
-- ļauj ieguldīt aktīvu grozā un ļauj izslēgt individuālas akcijas risku
-- jārēķinās ar indeksu vidējo sniegumu
-- ieguldot atsevišķās akcijāš var vairāk iegūt, bet arī zaudēt
-
-
-#### Alternatīvas pasīvai ieguldīšanai ETF
-- dzīvības apdrošināšana ar uzkrājumu 3.pensiju līmenī, ja:
-  - ir zemas komisijas maksas
-  - tiek ieguldīts atbilstošā stratēģijā (tikai akcijās)
-  - tiek saņemta IIN atmaksa
-- Swedbank ROBUR fondi (nav pirkšanas, pārdošanas, glabāšanas komisiju) Pasaule, Eiropa, Āzija. Bet tur jāuzmanās, jo ir arī augstāku izmaksu
-
-#### Visvienkāršākais - pasaules ETF
-> Iesaku Vanguard FTSE All-World UCITS ETF Accumulating
-
-Vanguard (uzturētājs) FTSE All-World (visā pasaulē) UCITS (Eiropas normatīvi) ETF (fonda veids) Accumulating (dividendes tiek reinvestētas)
-- izmaksas 0.22% gadā
-- tā kā dividendes tiek reinvestētas, netiek izmaksāts nodoklis
-
-> Manuprāt jēdzīgāk izmantot pasauli, nevis S&P500
-
-#### EFT paveidi
-- Akciju indeksu
-- obligāciju
-- izejvielu un preču
-- sektoru
-- tematiskie
-- aktīvi pārvaldīti (ARC)
-- ETF ar iestrādāju kredītplecu
-
-#### Ieguldīšanas plāns
-
-![](/images/ieguldisanas-plans.png)
-
-Ja summa ir neliela, dēļ komisijām katru mēnesi nevajag to darīt.
-
-> ETF stratēģija ir pasīva, līdz ar to arī garlaicīga. Grūti pieturēties.
-
-
-#### justetf.com
-> ETF sareģistrēti vairāk nekā akcijas
-
-- pieejami eiropiešiem
-- jāuzmanās, jo atsevišķos brokeros pēdējā laikā rāda tikai tiem klientiem, kam ir iztulkota info klienta valodā
-- meklēt EUR valūtā eiropas biržā, just.etf atrast ticker un tālāk to darboties biržā.
-- IBKR ir pieejami tikai tie fondi, kas tev kā eiropietim ir pieejami.
+- Diversificēts produktu un pakalpojumu portfelis
+- Augsta konkurence
+- Spēcīga pozīcija tirgū, premium produkts
+- Statusa apliecinājums
+- Izpaliek inovatīvi produkti nākotnei
+- Inovācijās mēdz atpalikt no konkurentiem
+- Augstas cena produkti
 
 ---
 
-## Portfeļa pārvaldīšana
+## Ko var pētīt padziļinātā pamatanalīzē | Checklist
 
-> 1. Centies zaudēt pēc iespējas mazāk.
-> 2. Saglabā naudas vērtību
-> 3. Turi pieaugumu virs inflācijas
+Piemērus meklēt [Enlight Research](https://research.enlightresearch.net/Index.action)
 
-lai atgūtu pamatkapitālu, uz lieliem zaudējumiem nepieciešami vēl lielāki ienākumi.
+### Korporatīvais profils
 
-![](/images/zaudesana.png)
+- Identificēt uzņēmuma galvenos produktus un pakalpojumus, pašreizējo
+pozīciju industrijā, un vēsturi
+- Apgrozījuma sadalījums
+- Produkta dzīvescikls
+- Izpētes un attīstības aktivitātes
+- Pagātnes un plānotās kapitāla investīcijas
+- Vadība - struktūra, sastāvs, vadītāju izvirzīšanas sistēma
+- Vadības stiprās, vājās puses, atalgojums, mainība un korporatīvā kultūra
+- Labumi, opciju plāni, pensiju atskaitījumi un to ietekme uz akciju vērtību
+- Attiecības ar nodarbinātajiem (arodbiedrības)
+- Insider ownership (cik vadībai pieder akcijas) un to izmaiņas
+- Pašreizējie tiesu procesi vai gatavība tiem
+- Citas īpašas stiprās vai vājās puses
 
-No kā izvairītes:
-- karsto ideju pārdevēji
-- signālu tirgotāji internetā
-- no nereālu ienesīgumu solītājiem
-- pump and dump shēmām
+### Industrijas raksturojums
 
-Ļoti riskanti, sākumā noteikti vajag izvairīties:
-- mikrokapitāla akcijas (50-300 million ASV tirgos) - neizmantot, jo nav pieejama kvalitatīva info
-- sarežģītas opciju stratēfijas
-- akciju short
-- pārāk liels kredītplecs
-- sarežģīti ETF
+- Atrašanās dzīves ciklā
+- Biznesa cikla jūtīgums
+- Tipiskie produkta dzīves cikli industrijā (piemēram, īsi tehnolģiju jomā, gari farmācijas jomā ar patentiem)
+- Zīmola lojalitāte, maiņas izmaksas klientiem, konkurences sīvums
+- Ieejas un izejas barjeras
+- Industrijas piegādātāju jautājumi ( resursu koncetrācija, spēja mainīt piegādātājus, ieiet piegādātāju biznesā)
+- Spēlētāju skaits industrijā, vai to nosaka tirgus vai regulācija
+- Iespēja veidot atšķirīgu produktu/pakalpojumu un relatīvā cena, izmaksas un kvalitātes priekšrocības/trūkumi
+- Izmantotās tehnoloģijas
+- Valdības regulējums
+- Pašreizējās attiecības ar nodarbinātajiem
+- Citas industrijas problēmas/ izaicinājumi
 
-![](/images/micro-akcijas.png)
+### Pieprasījuma analīze
 
-### Labas ieguldīšanas principi
+- Pieprasījuma avoti
+- Produktu/pakalpojumu atšķirīgums/dažādība
+- Pagātnes sakarības, korelācijas un jutīgums pret sociālām norisēm, demogrāfiju, ekonomiku un citiem mainīgajiem lielumiem
+- Skats nākotnē - īstermiņa, vidēja termiņa un ilgtermiņa, ieskaitot jaunu produktu un biznesu iespējas
 
-![](/images/principi.png)
+### Piedāvājuma analīze
 
-Investīciju blogi labi kalpo pierakstu veikšanai un lai mācītos no pieredzes.
+- Piedāvājuma avoti
+- Industrijas jaudas jeb kapacitātes skats nākotnē - īsā, vidējā, ilgtermiņā
+- Uzņēmuma jauda jeb kapacitāte un izmaksu struktūra
+- Imports/eksports
+- Patenti vai preču zīmes
 
-Riska vadība:
-- spekulatīvos ieguldījumosieguldi tikai tik, cik vari atļauties zaudēt pilnībā
-- spekulācijas nesauc par investīcijām
-- ja līdzekļus paredzēts iztērēt tuvāko 5 gadu laikā - akcijās neieguldi
-- Ilgtermiņa ieguldījumiem piemēro ilgtermiņa domāšanu - 20% kritums rīt maz ietekmē dzīvi pēc 20-30 gadiem
-- nebūt ieguldītam ir tikpat dārgi, cik būt nepareizi ieguldītam
+### Cenu politikas analīze
 
-## Portfeļu piemēri
-
-### aktīvs individuālu akciju portfelis
-
-
-10-15 akcijas, ja neesi profesionālis:
-- lai spētu izsekot
-- paņem ap 3h nedēļā
-- lai zinātu savas kompānijas
-- ja atrod jaunu akciju, tad kāda vecā jāmet ārā
-
-Sadlīt portfeli līdzīgās daļās:
-- 5-20% vienā akcijā ir ok
-- >20% ir pārāk liela koncentrācija un risks
-
-### aktīvs akciju un ETF portfelis
-
-portfelī iekļauti:
-- daži sektoru, reģionu vai tematiskie ETF
-- dažas akcijas
-
-Līdz 5-8 pozīcijām:
-- lai spētu izsekot
-- lielāks ETF skaits novedīs pie tirgus indeksu kopēšanas ar lielākām izmaksām
-
-Sadalīt portfeli līdzīgās daļās:
-- 10-20% vienā ETF ir ok
-- >20% ir pārāk liela koncentrācija, bet plaša indeksa ETF ir ok
-
-### pasīvs ETF portfelis
-
-portfelī iekļautiL
-- plaši indeksu fondi
-
-1-3 pozīcijas:
-- pietiek ar vienu pasaules akciju ETF
-- var papildināt ar kādu reģionālu ETF
-
-Portfeļa sadalīgums
-- 70-100% pasaules ETF
-- 10-30% sektoru ETF
-
-### Akciju trader portfelis
-
-Pats svarīgākais = riska vadības sistēma: tev ir skaidri definēts un noteikts riska līmenis katrai pozīcija
-- 0.25-0.5% no portfeļa vērtības 1 līdz pāris dienu darījumiem
-- līdz 2% no portfeļa vērtības dažu nedēļu darījumiem
-- līdz 5% no portfeļa vērtības vairāku mēnešu darījumiem
-
-Ar risku vien nepietiek, vajag arī pārbaudītu un pelnošu stratēģiju
-
-> patiesa trade'ošana ir īstenībā diezgan garlaicīgs process
-
-## Korelācija un diversifikācija
-
-
-### korelācija
-
-iekļaujot portfelī mēs gribētu tādu aktīvus, kas nestaigā līdzi viens otram
-
-![](/images/korelacija.png)
-
-
-strauju kritumu brīžos:
-- krīt gandrīz viss
-- aktīvu korelācija tuvojas 1
-
-ilgā termiņāL
-- tirgos vienmēr ir iespējas
-- ne viss krīt vienādi ātri
-
-### diversifikācija
-
-![](/images/diversifikacija.png)
-
-- Diversifikācija pati par sevi nav pašmērķis
-- Nav jāmeklē uzņēmumi diversifikācijas pēc, tas ir labs negatīvais filtrs (man jau šis ir, nemeklēt to pašu)
-- Tā palīdz izvairīties no pārlieku lieliem riskiem portfelī
-
-![](/images/diversifikacija-piemeri.png)
-
-## Vietnes portfeļa izveidei
-
-- Brokeris, vajag labas atskaites
-  - IBKR: performance&Reports -> Overview
-  - Latvijas bankās ar atskaitēm ir diezgan bēdīgi
-- seekingalpha.com
-  - +: var sastādīt savu portfeli, sekot portfeļa ziņām un analīzēm un konferenču transkripti
-  - -: nevar sekot naudas plūsmai, nerāda portfeļa sniegumu, fokusēts tikai uz ASV aktīviem
-- yahoo finance
-  - +: var sastādīt savu portfeli, sekot portfeļa ziņām un stilizēts portfeļa ienesīgum rezultāts (nav lielisks), var salikt arī Latvijas akcijas
-  - -: nevar sekot naudas plūsmai, neveic pielāgošanu pēc stock-split, diezgan vienkāršots un pat pastulbs
-- Finviz
-  - +: var sastādīt savu portfeli, sekot portfeļa ziņām un vienkāršs portfeļa ienesīgum rezultāts (nav lielisks)
-  - -: nevar sekot naudas plūsmai, ?? TODO
-
-## Ienesīguma aprēķināšana
-
-Nav jārēķina, ja ir normāls brokera konts ar jēdzīgu izrakstu, kā ir IBKR
-
-Ja citur, vairāk konti, citi aktīvi
-- Jāņem vērā naudas plūsmas (dividendes, komisijas, iemaksas, izmaksas)
-- kopējās vērtības pieaugums katrā kontā
-
-[Ienesīguma kalkulators](https://www.calculator.net/average-return-calculator.html)
-
-### Salīdzināt ar tirgu
-
-- lai pārliecinātos par saviem rezultātiem un spēju būt labākam par tirgu
-- saprastu pret nozares vidējo (sektora/nozares indeksi)
-- IBKR var vienkārši salīdzīnāt ar dažādiem atsauces indeksiem, arī justetf.com
-
+- Cenu iepriekšējā reakcija uz pieprasījuma, piedāvājuma un cenu izmaiņām
+- Izejvielu un darba kapitāla nozīmīgums produkta cenā, skats nākotnē uz cenu tendencēm
+- Skats nākotnē uz pārdošanas cenām, pieprasījumu un pelnītspēju, balstoties uz pašreizējiem un nākotnes trendiem
