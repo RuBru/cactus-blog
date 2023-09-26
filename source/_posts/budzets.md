@@ -1,7 +1,7 @@
 ---
 title: Investīciju budžeta plāns
 date: 2022-12-18 16:44:04
-tags: [finanses]
+tags: [finanses,lifestyle]
 ---
 
 Pēc pāris gadu spēlēšanās, pienācis laiks investīciju plānam. Mūsu investīciju mērķis agra pensionēšanās (t.i. - nestrādāt naudas dēļ) un materiālo līdzekļu audzēšana ilgtermiņā.
