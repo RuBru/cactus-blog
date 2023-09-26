@@ -1,7 +1,7 @@
 ---
 title: Kapsulas garderobe
 date: 2022-12-03 15:11:01
-tags: [dizains,lifestyle]
+tags: [lifestyle]
 ---
 
 Ir pagājis gads un gandrīz 2 mēneši kopš ar nodomu pieķēros skapim.
@@ -9,6 +9,36 @@ Ir pagājis gads un gandrīz 2 mēneši kopš ar nodomu pieķēros skapim.
 Es izrevidēju visu skapi, pārskatījos video par kapsulas garderobēm un uzsāku savu dizainētās garderobes stāstu.
 
 Izpētei un lēmumu pieņemšanai veltīju 1 nakti.
+
+
+## Mani izmēri
+
+| Ķermeņa daļa        | Mēri  |
+|---------------------|-------|
+| Pleci               | 41cm  |
+| Rokas piedurkne     | 62cm  |
+| Krūtis              | 90cm  |
+| Viduklis            | 77cm  |
+| Gurni               | 101cm |
+| Kāja (līdz potītei) | 100cm |
+| Galvas kronis       | 57cm  |
+
+Citi izmēri:
+- [Klasiski džinsi](https://boas.co/): W30L32+
+- Plastmasas puķu vainadziņš: 54cm
+
+### Apavi
+
+pēdas garums: 24cm
+
+| Apavu veids      | Izmērs  |
+|------------------|---------|
+| Parasti apavi    | 38/39   |
+| Ādas kurpes      | 38      |
+| Sporta apavi     | 39-39.5 |
+| Kedas            | 39      |
+| Tautiskās kurpes | 37.5    |
+
 
 ## Manas krāsas
 
@@ -55,35 +85,6 @@ Tās joprojām ir ~ aktuālas un pie tām aptuveni turos, jo tās izvēlējos, �
 - Preppy/Classic/Vintage/Traditional with simple patterns, high waist, balanced proportions and color/pattern saturation
 
 Alternatīva: warm, quirky, functional
-
-## Mani izmēri
-
-| Ķermeņa daļa        | Mēri  |
-|---------------------|-------|
-| Pleci               | 41cm  |
-| Rokas piedurkne     | 62cm  |
-| Krūtis              | 90cm  |
-| Viduklis            | 77cm  |
-| Gurni               | 101cm |
-| Kāja (līdz potītei) | 100cm |
-| Galvas kronis       | 57cm  |
-
-Citi izmēri:
-- [Klasiski džinsi](https://boas.co/): W30L32+
-- Plastmasas puķu vainadziņš: 54cm
-
-### Apavi
-
-pēdas garums: 24cm
-
-| Apavu veids      | Izmērs  |
-|------------------|---------|
-| Parasti apavi    | 38/39   |
-| Ādas kurpes      | 38      |
-| Sporta apavi     | 39-39.5 |
-| Kedas            | 39      |
-| Tautiskās kurpes | 37.5    |
-
 
 ## Iepirkšanās paradumi
 

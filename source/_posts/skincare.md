@@ -1,7 +1,7 @@
 ---
 title: Ādas kopšana
 date: 2023-09-06 09:41:31
-tags: [dizains,lifestyle]
+tags: [lifestyle]
 ---
 
 Kopš 2022. gada sākuma esmu sākusi pievērst uzmanību sejas kopšanai. Sasūkusies ļoti daudz informācijas un eksperimentējusi ar dikti daudz produktiem, man beidzot ir viedoklis un esmu pārliecināta par savu piegājienu.
