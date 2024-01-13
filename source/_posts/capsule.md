@@ -23,9 +23,20 @@ Izpētei un lēmumu pieņemšanai veltīju 1 nakti.
 | Kāja (līdz potītei) | 100cm |
 | Galvas kronis       | 57cm  |
 
-Citi izmēri:
-- [Klasiski džinsi](https://boas.co/): W30L32+
 - Plastmasas puķu vainadziņš: 54cm
+
+### Džinsi
+
+- Izmērs: **W29L31** vai **W29L32**
+- Materiāls: 100% kokvilna
+- Krāsa: tumša, pēc iespējas mazāk apstrādāta
+
+Potenciāli modeļi:
+- Levi's 501
+- Levi's Ribcage
+- Raw jeans
+- Mom/high rise jeans
+- [Lietoti klasiski džinsi](https://boas.co/)
 
 ### Apavi
 
