@@ -37,6 +37,7 @@ Potenciāli modeļi:
 - Raw jeans
 - Mom/high rise jeans
 - [Lietoti klasiski džinsi](https://boas.co/)
+- vintage drēbes [Gem app](https://gem.app/)
 
 ### Apavi
 
