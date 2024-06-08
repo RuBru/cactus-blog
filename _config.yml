@@ -103,5 +103,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/RuBru/cactus-blog
+  repo: git@github.com:RuBru/cactus-blog.git
   branch: gh-pages
