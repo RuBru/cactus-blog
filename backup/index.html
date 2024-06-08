@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang=lv>
+<head>
+    <!-- so meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+    <meta name="description" content="SyncthingIlgtermiņa failu uzturēšanai izmantojam:  Syncthing sinhronizēšanu Rūķi kā starpnieku starp ierīcēm un cieto disku  Sinhronizēšana notiek visos personīgajos telefonos un datoros, kas tiek izm">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Datu uzglabāšana &amp; backup">
+<meta property="og:url" content="https://blog.bruna.lv/backup/index.html">
+<meta property="og:site_name" content="Rū prāta paplašinājums">
+<meta property="og:description" content="SyncthingIlgtermiņa failu uzturēšanai izmantojam:  Syncthing sinhronizēšanu Rūķi kā starpnieku starp ierīcēm un cieto disku  Sinhronizēšana notiek visos personīgajos telefonos un datoros, kas tiek izm">
+<meta property="og:locale">
+<meta property="og:image" content="https://blog.bruna.lv/images/backup_folders.png">
+<meta property="article:published_time" content="2024-06-08T14:28:45.000Z">
+<meta property="article:modified_time" content="2024-06-08T14:52:58.515Z">
+<meta property="article:author" content="Rota Kalniņa">
+<meta property="article:tag" content="lifestyle">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog.bruna.lv/images/backup_folders.png">
+    
+    
+      
+        
+          
+            <link rel="shortcut icon" href="https://www.gravatar.com/avatar/7c82112facabb254bb3cdba0d8d772b6?s=48">
+          
+        
+      
+      
+        
+          
+            <link rel="icon" type="image/png" href="https://www.gravatar.com/avatar/7c82112facabb254bb3cdba0d8d772b6?s=192" sizes="192x192">
+          
+        
+      
+      
+        
+          
+            <link rel="apple-touch-icon" sizes="180x180" href="https://www.gravatar.com/avatar/7c82112facabb254bb3cdba0d8d772b6?s=180">
+          
+        
+      
+    
+    <!-- title -->
+    <title>Datu uzglabāšana &amp; backup</title>
+    <!-- styles -->
+    
+<link rel="stylesheet" href="/css/style.css">
+
+    <!-- persian styles -->
+    
+    <!-- rss -->
+    
+    
+	<!-- mathjax -->
+	
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body class="max-width mx-auto px3 ltr">
+    
+      <div id="header-post">
+  <a id="menu-icon" href="#" aria-label="Izvēlne"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#" aria-label="Izvēlne"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" aria-label="Uz augšu" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <span id="menu">
+    <span id="nav">
+      <ul>
+        <!--
+       --><li><a href="/">Sākums</a></li><!--
+     --><!--
+       --><li><a href="/archives/">Raksti</a></li><!--
+     --><!--
+       --><li><a href="/about/">Par</a></li><!--
+     -->
+      </ul>
+    </span>
+    <br/>
+    <span id="actions">
+      <ul>
+        
+        
+        <li><a class="icon" aria-label="Nākamais ieraksts" href="/charity-branding/"><i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i></a></li>
+        
+        <li><a class="icon" aria-label="Atpakaļ uz augšu" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i></a></li>
+        <li><a class="icon" aria-label="Dalīties ar ierakstu" href="#"><i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i></a></li>
+      </ul>
+      <span id="i-prev" class="info" style="display:none;">Iepriekšējais ieraksts</span>
+      <span id="i-next" class="info" style="display:none;">Nākamais ieraksts</span>
+      <span id="i-top" class="info" style="display:none;">Atpakaļ uz augšu</span>
+      <span id="i-share" class="info" style="display:none;">Dalīties ar ierakstu</span>
+    </span>
+    <br/>
+    <div id="share" style="display: none">
+      <ul>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://blog.bruna.lv/backup/"><i class="fab fa-facebook " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://https://blog.bruna.lv/backup/"><i class="fas fa-globe " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://blog.bruna.lv/backup/&text=Datu uzglabāšana &amp; backup"><i class="fab fa-twitter " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://blog.bruna.lv/backup/&is_video=false&description=Datu uzglabāšana &amp; backup"><i class="fab fa-pinterest " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=Datu uzglabāšana &amp; backup&body=Check out this article: https://blog.bruna.lv/backup/"><i class="fas fa-envelope " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-get-pocket " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-reddit " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-stumbleupon " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-digg " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://blog.bruna.lv/backup/&name=Datu uzglabāšana &amp; backup&description="><i class="fab fa-tumblr " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=https://blog.bruna.lv/backup/&t=Datu uzglabāšana &amp; backup"><i class="fab fa-hacker-news " aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+    <div id="toc">
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Syncthing"><span class="toc-number">1.</span> <span class="toc-text">Syncthing</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#PARA"><span class="toc-number">2.</span> <span class="toc-text">PARA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Istenosana"><span class="toc-number">3.</span> <span class="toc-text">Īstenošana</span></a></li></ol>
+    </div>
+  </span>
+</div>
+
+    
+    <div class="content index py4">
+        
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    
+    <h1 class="posttitle" itemprop="name headline">
+        Datu uzglabāšana &amp; backup
+    </h1>
+
+
+
+    <div class="meta">
+      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">Rota Kalniņa</span>
+      </span>
+      
+    <div class="postdate">
+      
+        <time datetime="2024-06-08T14:28:45.000Z" itemprop="datePublished">2024-06-08</time>
+        
+      
+    </div>
+
+
+      
+
+      
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link-link" href="/tags/lifestyle/" rel="tag">lifestyle</a>
+    </div>
+
+
+    </div>
+  </header>
+  
+
+  <div class="content" itemprop="articleBody">
+    <h2 id="Syncthing"><a href="#Syncthing" class="headerlink" title="Syncthing"></a>Syncthing</h2><p>Ilgtermiņa failu uzturēšanai izmantojam:</p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://syncthing.net/">Syncthing</a> sinhronizēšanu</li>
+<li>Rūķi kā starpnieku starp ierīcēm un cieto disku</li>
+</ul>
+<p>Sinhronizēšana notiek visos personīgajos telefonos un datoros, kas tiek izmantoti ikdienā.</p>
+<p>Syncthing ir diezgan gudrs, tāpēc pieļaujami dažādi sinhronizēšanas virzieni.</p>
+<h2 id="PARA"><a href="#PARA" class="headerlink" title="PARA"></a>PARA</h2><p>Failu sistēmas formāts aizgūts no Clearer Thinking raidieraksta epizodes ar Tiago Forte par “ārējo galvu” <a target="_blank" rel="noopener" href="https://podcast.clearerthinking.org/episode/144/tiago-forte-how-to-build-your-second-brain">How to build your second brain</a></p>
+<p>Ārējās galvas struktūrā visi faili tiek sadalīti 4 grupās PARA:</p>
+<ul>
+<li><strong>Projects</strong>: aktīvi projekti ar sākumu un beigām</li>
+<li><strong>Areas</strong>: mūžīgie projekti (veselība, uzņēmums, …)</li>
+<li><strong>Resources</strong>: objekti, ko plāno izmantot nākotnes projektos (grāmatas, koda fragmenti…)</li>
+<li><strong>Archive</strong>: projekti, kas beigušies un resursi, kas šobrīd vairs nav aktuāli, lai nav jāmet pavisam miskastē</li>
+</ul>
+<h2 id="Istenosana"><a href="#Istenosana" class="headerlink" title="Īstenošana"></a>Īstenošana</h2><p>Mūsu mērķis ir:</p>
+<ul>
+<li>sastrukturizēt visu digitālo dzīvi pēc ārējās galvas principiem;</li>
+<li>izveidot funkcionālu sinhronizēšanu ar telefoniem (ko ir grūti labi izdarīt);</li>
+<li>atbrīvoties no lēni mirstošā <a target="_blank" rel="noopener" href="https://keybase.io/">Keybase</a>, kurš šobrīd vēl pilda svarīgākās funkcijas.</li>
+</ul>
+<p>Failu strukturizēšanai izmantojam PARA principu un pievienojam vēl citas grupas atkarībā no personīgajiem ieradumiem. Piemēri ar 2 grupām, ko izmantojam abi:</p>
+<ul>
+<li><strong>Sentimental</strong>: vieta atmiņu objektiem ar sentimentālu vērtību (bildes, video, …)</li>
+<li><strong>Keys</strong>: svarīgākie dokumenti (atslēgu faili). Tikai privātām vajadzībām</li>
+</ul>
+<p><img src="/images/backup_folders.png" alt="Kalvja mapju struktūra"></p>
+<p>Mapju struktūru kārtojam primāri pēc piederības:</p>
+<ul>
+<li>Kalniņi</li>
+<li>Kalvis</li>
+<li>Rota</li>
+</ul>
+<p>Katrā piederībā atrodas pilna mapju struktūra un faili tiek sinhronizēti tikai ar iesaistītajām pusēm.</p>
+<blockquote>
+<p>Piemēram, Kalvim nav pieeja Rotas personīgajiem failiem un otrādi, bet abiem ir pilna pieeja Kalniņu failiem.</p>
+</blockquote>
+<ul>
+<li>Telefoniem pieeja tikai atslēgu mapei, jo ierobežota atmiņa un atvēršanas iespējas.</li>
+<li>Projektus, kuriem ir savi Git, nedublējam - tur jau tiek izmantota labāka versiju sistēma.</li>
+</ul>
+
+  </div>
+</article>
+
+
+
+        
+          <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Sākums</a></li>
+         
+          <li><a href="/archives/">Raksti</a></li>
+         
+          <li><a href="/about/">Par</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Syncthing"><span class="toc-number">1.</span> <span class="toc-text">Syncthing</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#PARA"><span class="toc-number">2.</span> <span class="toc-text">PARA</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Istenosana"><span class="toc-number">3.</span> <span class="toc-text">Īstenošana</span></a></li></ol>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      <ul>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://blog.bruna.lv/backup/"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://https://blog.bruna.lv/backup/"><i class="fas fa-globe fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://blog.bruna.lv/backup/&text=Datu uzglabāšana &amp; backup"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://blog.bruna.lv/backup/&is_video=false&description=Datu uzglabāšana &amp; backup"><i class="fab fa-pinterest fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=Datu uzglabāšana &amp; backup&body=Check out this article: https://blog.bruna.lv/backup/"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://blog.bruna.lv/backup/&title=Datu uzglabāšana &amp; backup"><i class="fab fa-digg fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://blog.bruna.lv/backup/&name=Datu uzglabāšana &amp; backup&description="><i class="fab fa-tumblr fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=https://blog.bruna.lv/backup/&t=Datu uzglabāšana &amp; backup"><i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;"><i class="fas fa-bars fa-lg" aria-hidden="true"></i> Izvēlne</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;"><i class="fas fa-list fa-lg" aria-hidden="true"></i> Satura rādītājs</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;"><i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> Dalīties</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Uz augšu</a>
+    </div>
+
+  </div>
+</div>
+
+        
+        <footer id="footer">
+  <div class="footer-left">
+    Autortiesības &copy;
+    
+    
+    2024
+    Rota Kalniņa
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+        <!--
+       --><li><a href="/">Sākums</a></li><!--
+     --><!--
+       --><li><a href="/archives/">Raksti</a></li><!--
+     --><!--
+       --><li><a href="/about/">Par</a></li><!--
+     -->
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+    </div>
+    <!-- styles -->
+
+
+
+  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'"/>
+
+
+    <!-- jquery -->
+ 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script> 
+
+
+
+
+<!-- clipboard -->
+
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.7/clipboard.min.js" crossorigin="anonymous"></script> 
+  
+  <script type="text/javascript">
+  $(function() {
+    // copy-btn HTML
+    var btn = "<span class=\"btn-copy tooltipped tooltipped-sw\" aria-label=\"Nokopē!\">";
+    btn += '<i class="far fa-clone"></i>';
+    btn += '</span>'; 
+    // mount it!
+    $(".highlight table").before(btn);
+    var clip = new ClipboardJS('.btn-copy', {
+      text: function(trigger) {
+        return Array.from(trigger.nextElementSibling.querySelectorAll('.code')).reduce((str,it)=>str+it.innerText+'\n','')
+      }
+    });
+    clip.on('success', function(e) {
+      e.trigger.setAttribute('aria-label', "Nokopēts!");
+      e.clearSelection();
+    })
+  })
+  </script>
+
+
+<script src="/js/main.js"></script>
+
+<!-- search -->
+
+<!-- Google Analytics -->
+
+<!-- Baidu Analytics -->
+
+<!-- Cloudflare Analytics -->
+
+<!-- Umami Analytics -->
+
+<!-- Goatcounter Analytics -->
+
+  <script data-goatcounter="https://bruna.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
+  
+<!-- Disqus Comments -->
+
+<!-- utterances Comments -->
+
+</body>
+</html>
