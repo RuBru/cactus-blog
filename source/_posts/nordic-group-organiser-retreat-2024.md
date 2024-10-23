@@ -120,13 +120,15 @@ The only ones who have failed are Finland as their legalese did not go through, 
 
 ## Resursi
 
+
 [EA grupas stratēģijas izveides dokuments](https://docs.google.com/document/d/1jb9iTaLa9ltGyPzbPBI9ZhE_DnqNaD83JuqmzxEifFY/edit?usp=drivesdk)
 [Resursu mape no pasākuma](https://drive.google.com/drive/folders/1pa0I0m7Z9LZ69KGvOJ6SHHs3a7IjI3pm?usp=share_link)
 
 [Effective Giving knowledge hub](https://givingwhatwecan.notion.site/Effective-Giving-Knowledge-Hub-5e6cb20333cf47d68e38e5d78fa84766)
 
-
 Biohazard safety camp in France. People got accepted. 5 from country will get Erasmus funding
+
+Mastermind: a method of deep conversation. You listen to a well defined problem and for 25 minutes you try to bring new perspectives and find solutions to it while asking questions and listening carefully. Then switch roles.
 
 [Deep dives](https://deep-dives.org/) - effective learning materials about ethics
 
