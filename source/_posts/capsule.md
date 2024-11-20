@@ -36,8 +36,14 @@ Potenciāli modeļi:
 - Levi's Ribcage
 - Raw jeans
 - Mom/high rise jeans
+
+Drēbju meklēšana:
 - [Lietoti klasiski džinsi](https://boas.co/)
+- [Lietoti kašmira džemperi](https://www.nearlynewcashmere.co.uk/)
 - vintage drēbes [Gem app](https://gem.app/)
+- [Perplexity AI](https://www.perplexity.ai/) ieteikumiem un saitēm
+- [Google Lens](https://lens.google.com/) attēlu meklēšanai
+
 
 ### Apavi
 
@@ -119,7 +125,5 @@ Nav tāda "pareizā" apģērba, tā daudzuma vai pamata apģērba gabalu, bez ku
 Kapsulas garderobe: piezemēta franču influencere [Justine Leconte](https://youtu.be/lpYUY9CpghY), kuras video par kapsulām bija viskvalitatīvākais tajā laikā.
 
 Elegants stils un labi pamati: jauka influencere [Audrey Coyne](https://www.youtube.com/@AudreyCoyne/), kurai ir labi video par apģērbu kvalitāti, piegriezumu un to, kā pateikt, kad apģērbs tev der.
-
-Kvalitatīvs [lietotu vintage džinsu](https://boas.co/) interneta veikals ar saprātīgām cenām un lielu izvēli.
 
 [JPress](https://jpressonline.com/): augstas kvalitātes preppy apģērba zīmols, ko radījis Latvijas imigrants 20.gs sākumā
