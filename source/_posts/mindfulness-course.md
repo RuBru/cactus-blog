@@ -199,6 +199,14 @@ Shorter mindfulness meditations:
 
 ![EA mindfulness course cover](/audio/cover.png)
 
+### My other favourite meditations as files
+- [Adyashanti -  Three Centers (mp4)](/audio/three-centers.mp4) (29 minutes 54 seconds)
+- [Adyashanti -  Attending to the Breath (mp4)](/audio/attending.mp4) (20 minutes 01 seconds)
+- [Prof. Mark Williams -  The Body scan (mp4)](/audio/body-scan.mp4) (14 minutes 47 seconds)
+- [Tara Brach -  Embodied Metta (mp4)](/audio/metta.mp4) (22 minutes 05 seconds)
+- [Tara Brach -  RAIN (mp4)](/audio/rain.mp4) (20 minutes 15 seconds)
+
+
 ### Retreats
 
 Best in class retreats in Europe:
